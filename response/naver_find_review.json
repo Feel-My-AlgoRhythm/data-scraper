@@ -1,0 +1,206 @@
+[
+  {
+    "data": {
+      "visitorReviewStats": {
+        "id": 11576171,
+        "name": null,
+        "apolloCacheId": null,
+        "review": {
+          "avgRating": 4.3,
+          "totalCount": 4099,
+          "scores": [
+            {
+              "count": 30,
+              "score": null,
+              "__typename": "VisitorReviewScore"
+            },
+            {
+              "count": 128,
+              "score": null,
+              "__typename": "VisitorReviewScore"
+            },
+            {
+              "count": 4,
+              "score": null,
+              "__typename": "VisitorReviewScore"
+            },
+            {
+              "count": 88,
+              "score": null,
+              "__typename": "VisitorReviewScore"
+            },
+            {
+              "count": 2,
+              "score": null,
+              "__typename": "VisitorReviewScore"
+            },
+            {
+              "count": 584,
+              "score": null,
+              "__typename": "VisitorReviewScore"
+            },
+            {
+              "count": 152,
+              "score": null,
+              "__typename": "VisitorReviewScore"
+            },
+            {
+              "count": 4,
+              "score": null,
+              "__typename": "VisitorReviewScore"
+            },
+            {
+              "count": 316,
+              "score": null,
+              "__typename": "VisitorReviewScore"
+            },
+            {
+              "count": 12,
+              "score": null,
+              "__typename": "VisitorReviewScore"
+            }
+          ],
+          "starDistribution": [
+            {
+              "count": null,
+              "score": "0.5",
+              "__typename": "VisitorReviewScore"
+            },
+            {
+              "count": null,
+              "score": "1.0",
+              "__typename": "VisitorReviewScore"
+            },
+            {
+              "count": null,
+              "score": "1.5",
+              "__typename": "VisitorReviewScore"
+            },
+            {
+              "count": null,
+              "score": "2.0",
+              "__typename": "VisitorReviewScore"
+            },
+            {
+              "count": null,
+              "score": "2.5",
+              "__typename": "VisitorReviewScore"
+            },
+            {
+              "count": null,
+              "score": "3.0",
+              "__typename": "VisitorReviewScore"
+            },
+            {
+              "count": null,
+              "score": "3.5",
+              "__typename": "VisitorReviewScore"
+            },
+            {
+              "count": null,
+              "score": "4.0",
+              "__typename": "VisitorReviewScore"
+            },
+            {
+              "count": null,
+              "score": "4.5",
+              "__typename": "VisitorReviewScore"
+            },
+            {
+              "count": null,
+              "score": "5.0",
+              "__typename": "VisitorReviewScore"
+            }
+          ],
+          "imageReviewCount": 193,
+          "authorCount": 3535,
+          "maxSingleReviewScoreCount": 584,
+          "maxScoreWithMaxCount": "5.0",
+          "__typename": "VisitorReviewStats"
+        },
+        "analysis": {
+          "themes": [
+            {
+              "code": "service",
+              "label": "서비스",
+              "count": 71,
+              "__typename": "VisitorReviewStatsAnalysisThemes"
+            },
+            {
+              "code": "congestion",
+              "label": "혼잡도",
+              "count": 48,
+              "__typename": "VisitorReviewStatsAnalysisThemes"
+            },
+            {
+              "code": "price",
+              "label": "가격",
+              "count": 23,
+              "__typename": "VisitorReviewStatsAnalysisThemes"
+            },
+            {
+              "code": "show",
+              "label": "작품관람",
+              "count": 21,
+              "__typename": "VisitorReviewStatsAnalysisThemes"
+            },
+            {
+              "code": "equipment",
+              "label": "공연・전시공간",
+              "count": 13,
+              "__typename": "VisitorReviewStatsAnalysisThemes"
+            },
+            {
+              "code": "facilities",
+              "label": "편의시설",
+              "count": 6,
+              "__typename": "VisitorReviewStatsAnalysisThemes"
+            },
+            {
+              "code": "parking",
+              "label": "주차",
+              "count": 3,
+              "__typename": "VisitorReviewStatsAnalysisThemes"
+            },
+            {
+              "code": "admission",
+              "label": "입장",
+              "count": 2,
+              "__typename": "VisitorReviewStatsAnalysisThemes"
+            },
+            {
+              "code": "naver",
+              "label": "예약",
+              "count": 1,
+              "__typename": "VisitorReviewStatsAnalysisThemes"
+            },
+            {
+              "code": "covid19",
+              "label": "방역",
+              "count": 1,
+              "__typename": "VisitorReviewStatsAnalysisThemes"
+            },
+            {
+              "code": "performer",
+              "label": "작가・출연진",
+              "count": 1,
+              "__typename": "VisitorReviewStatsAnalysisThemes"
+            },
+            {
+              "code": "seat",
+              "label": "좌석",
+              "count": 1,
+              "__typename": "VisitorReviewStatsAnalysisThemes"
+            }
+          ],
+          "menus": [],
+          "votedKeyword": null,
+          "__typename": "VisitorReviewStatsAnalysis"
+        },
+        "visitorReviewsTotal": 4097,
+        "ratingReviewsTotal": 1119,
+        "__typename": "VisitorReviewStatsResult"
+      }
+    }
+  }
+]

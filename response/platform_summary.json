@@ -1,0 +1,559 @@
+{
+  /* datalab_regions */
+  // ['list'][i]['?']
+  "sggCd": "11680",
+  "sggNm": "강남구",
+
+
+  /* datalab_pois */
+  // ['list'][i]['?']
+  "ITS_BRO_NM": "코엑스",
+  "ADDR_ROAD_NM": "서울 강남구 영동대로 513-0",
+  "AREA_NM": "서울특별시 강남구",
+  "KTO_CATE_MCLS_NM": "문화관광",
+  "KTO_CATE_SCLS_NM": "전시시설",
+
+
+  /* naver_detail */
+  // ['result']['?']
+  "type": "place",
+
+  // ['result']['place']['list'][0]['?']
+  "id": "11576171",
+  "name": "코엑스",
+  "tel": "02-6000-0114",
+  "isCallLink": false,
+  "virtualTel": "",
+  "ppc": "1",
+  "category": [
+    "문화,예술",
+    "컨벤션센터"
+  ],
+  "categoryPath": [
+    [
+      "221845",
+      "221846",
+      "221853"
+    ]
+  ],
+  "address": "서울특별시 강남구 삼성동 159",
+  "roadAddress": "서울특별시 강남구 영동대로 513",
+  "abbrAddress": "삼성동 159",
+  "shortAddress": [
+    "서울 강남구",
+    "영동대로 513"
+  ],
+  "display": "<b>코엑스</b>",
+  "telDisplay": "02-6000-0114",
+  "context": [],
+  "reviewCount": 25665,
+  "placeReviewCount": 4095,
+  "ktCallMd": "205dc3bbd9fc483ac9b11d6927990308",
+  "coupon": "0",
+  "thumUrl": "https://ldb-phinf.pstatic.net/20140407_294/1396853911660oX1mT_JPEG/%BC%AD%BF%EF_%C4%DA%BF%A2%BD%BA_1.jpg?type=m500_500",
+  "thumUrls": [],
+  "type": "s",
+  "isSite": "1",
+  "posExact": "1",
+  "x": "127.0594274",
+  "y": "37.5116620",
+  "itemLevel": "12",
+  "isAdultBusiness": false,
+  "streetPanorama": null,
+  "skyPanorama": null,
+  "insidePanorama": null,
+  "interiorPanorama": null,
+  "indoorPanorama": null,
+  "theme": null,
+  "poiInfo": {
+    "relation": {
+      "poiShapeType": "1",
+      "shapeKey": {
+        "typeName": "RELA",
+        "wsid": "1.0",
+        "shapeID": "11576171"
+      },
+      "boundary": {
+        "minX": "117.9926027",
+        "minY": "19.6944771",
+        "maxX": "117.9926027",
+        "maxY": "19.6944771"
+      },
+      "detail": [
+        {
+          "type": "5",
+          "sid": "37770550",
+          "fullName": "코엑스남문1",
+          "name": "남문1",
+          "category": "입구(사람)",
+          "xPos": "127.0597315",
+          "yPos": "37.5104168"
+        },
+        {
+          "type": "5",
+          "sid": "820415858",
+          "fullName": "코엑스남문2",
+          "name": "남문2",
+          "category": "입구(사람)",
+          "xPos": "127.0604239",
+          "yPos": "37.5106640"
+        },
+        {
+          "type": "5",
+          "sid": "37770551",
+          "fullName": "코엑스동문",
+          "name": "동문",
+          "category": "입구(사람)",
+          "xPos": "127.0612502",
+          "yPos": "37.5115517"
+        },
+        {
+          "type": "4",
+          "sid": "18816323",
+          "fullName": "코엑스동문GATE",
+          "name": "동문GATE",
+          "category": "입출구(차량)",
+          "xPos": "127.0611329",
+          "yPos": "37.5108965"
+        },
+        {
+          "type": "5",
+          "sid": "204387860",
+          "fullName": "코엑스북문",
+          "name": "북문",
+          "category": "입구(사람)",
+          "xPos": "127.0584084",
+          "yPos": "37.5133820"
+        },
+        {
+          "type": "2",
+          "sid": "37770553",
+          "fullName": "코엑스북문GATE",
+          "name": "북문GATE",
+          "category": "입구(차량)",
+          "xPos": "127.0580428",
+          "yPos": "37.5136742"
+        },
+        {
+          "type": "5",
+          "sid": "37770549",
+          "fullName": "코엑스서문",
+          "name": "서문",
+          "category": "입구(사람)",
+          "xPos": "127.0581974",
+          "yPos": "37.5104968"
+        },
+        {
+          "type": "4",
+          "sid": "890525753",
+          "fullName": "코엑스서문GATE",
+          "name": "서문GATE",
+          "category": "입출구(차량)",
+          "xPos": "127.0574705",
+          "yPos": "37.5118198"
+        },
+        {
+          "type": "1",
+          "sid": "37770552",
+          "fullName": "아셈타워GATE",
+          "name": "아셈타워GATE",
+          "category": "입구(사람+차량)",
+          "xPos": "127.0606252",
+          "yPos": "37.5127082"
+        },
+        {
+          "type": "5",
+          "sid": "19473957",
+          "fullName": "코엑스입구",
+          "name": "입구",
+          "category": "입구(사람)",
+          "xPos": "127.0598500",
+          "yPos": "37.5139083"
+        },
+        {
+          "type": "5",
+          "sid": "21894018",
+          "fullName": "코엑스입구",
+          "name": "입구",
+          "category": "입구(사람)",
+          "xPos": "127.0608147",
+          "yPos": "37.5123850"
+        },
+        {
+          "type": "5",
+          "sid": "19473959",
+          "fullName": "코엑스입구",
+          "name": "입구",
+          "category": "입구(사람)",
+          "xPos": "127.0591875",
+          "yPos": "37.5138947"
+        },
+        {
+          "type": "5",
+          "sid": "19473955",
+          "fullName": "코엑스입구",
+          "name": "입구",
+          "category": "입구(사람)",
+          "xPos": "127.0601822",
+          "yPos": "37.5135381"
+        },
+        {
+          "type": "3",
+          "sid": "18818215",
+          "fullName": "코엑스출구",
+          "name": "출구",
+          "category": "출구(차량)",
+          "xPos": "127.0584346",
+          "yPos": "37.5137537"
+        }
+      ]
+    },
+    "hasRelation": true,
+    "road": {
+      "poiShapeType": "1",
+      "shapeKey": null,
+      "boundary": null,
+      "detail": null
+    },
+    "hasRoad": false,
+    "land": null,
+    "hasLand": false,
+    "polygon": null,
+    "hasPolygon": false
+  },
+  "homePage": "http://www.coex.co.kr/",
+  "description": "",
+  "entranceCoords": {
+    "car": [
+      {
+        "rep": true,
+        "x": 127.0606252,
+        "y": 37.5127082
+      },
+      {
+        "rep": false,
+        "x": 127.0580428,
+        "y": 37.5136742
+      },
+      {
+        "rep": false,
+        "x": 127.0574705,
+        "y": 37.5118198
+      },
+      {
+        "rep": false,
+        "x": 127.0611329,
+        "y": 37.5108965
+      }
+    ],
+    "walk": [
+      {
+        "rep": true,
+        "x": 127.0612502,
+        "y": 37.5115517
+      },
+      {
+        "rep": false,
+        "x": 127.05985,
+        "y": 37.5139083
+      },
+      {
+        "rep": false,
+        "x": 127.0597315,
+        "y": 37.5104168
+      },
+      {
+        "rep": false,
+        "x": 127.0608147,
+        "y": 37.512385
+      },
+      {
+        "rep": false,
+        "x": 127.0581974,
+        "y": 37.5104968
+      },
+      {
+        "rep": false,
+        "x": 127.0604239,
+        "y": 37.510664
+      },
+      {
+        "rep": false,
+        "x": 127.0584084,
+        "y": 37.513382
+      },
+      {
+        "rep": false,
+        "x": 127.0591875,
+        "y": 37.5138947
+      },
+      {
+        "rep": false,
+        "x": 127.0601822,
+        "y": 37.5135381
+      }
+    ]
+  },
+  "isPollingPlace": false,
+  "bizhourInfo": "매일 10:00~18:00 비고(행사 종료시간 상이)",
+  "menuInfo": null,
+  "petrolInfo": null,
+  "couponUrl": null,
+  "couponUrlMobile": null,
+  "hasCardBenefit": false,
+  "menuExist": "1",
+  "hasNaverBooking": false,
+  "naverBookingUrl": "",
+  "naverEasyOrderUrl": null,
+  "hasNaverSmartOrder": false,
+  "reservationLabel": {
+    "standard": false,
+    "preOrder": false,
+    "table": false,
+    "takeout": false
+  },
+  "reservation": {
+    "benefit": ""
+  },
+  "hasBroadcastInfo": true,
+  "broadcastInfo": {
+    "name": "알쓸신잡2",
+    "menu": null
+  },
+  "shopWindowInfo": null,
+  "hasNPay": false,
+  "carWash": "",
+  "parkingPrice": null,
+  "card": null,
+  "distance": "34367.81",
+  "marker": "nres://marker/00079-00101",
+  "markerSelected": "nres://marker/00079-00265",
+  "markerId": "m_440842",
+  "microReview": [],
+  "michelinGuide": null,
+  "indoor": null,
+  "markerLabel": null,
+  "subway": null,
+  "evChargerInfo": {
+    "summary": {
+      "fastEvCharger": {
+        "type": "급속",
+        "typeCode": "1",
+        "status": "",
+        "statusCode": "-1",
+        "names": [],
+        "nameCodes": []
+      },
+      "standardEvCharger": {
+        "type": "완속",
+        "typeCode": "2",
+        "status": "",
+        "statusCode": "-1",
+        "names": [],
+        "nameCodes": []
+      }
+    }
+  },
+
+
+  /* naver_review */
+  // [0]['data']['visitorReviewStats']['?']
+  "id": 11576171,
+  "name": null,
+  "apolloCacheId": null,
+  "review": {
+    "avgRating": 4.3,
+    "totalCount": 4099,
+    "scores": [
+      {
+        "count": 30,
+        "score": null,
+        "__typename": "VisitorReviewScore"
+      },
+      {
+        "count": 128,
+        "score": null,
+        "__typename": "VisitorReviewScore"
+      },
+      {
+        "count": 4,
+        "score": null,
+        "__typename": "VisitorReviewScore"
+      },
+      {
+        "count": 88,
+        "score": null,
+        "__typename": "VisitorReviewScore"
+      },
+      {
+        "count": 2,
+        "score": null,
+        "__typename": "VisitorReviewScore"
+      },
+      {
+        "count": 584,
+        "score": null,
+        "__typename": "VisitorReviewScore"
+      },
+      {
+        "count": 152,
+        "score": null,
+        "__typename": "VisitorReviewScore"
+      },
+      {
+        "count": 4,
+        "score": null,
+        "__typename": "VisitorReviewScore"
+      },
+      {
+        "count": 316,
+        "score": null,
+        "__typename": "VisitorReviewScore"
+      },
+      {
+        "count": 12,
+        "score": null,
+        "__typename": "VisitorReviewScore"
+      }
+    ],
+    "starDistribution": [
+      {
+        "count": null,
+        "score": "0.5",
+        "__typename": "VisitorReviewScore"
+      },
+      {
+        "count": null,
+        "score": "1.0",
+        "__typename": "VisitorReviewScore"
+      },
+      {
+        "count": null,
+        "score": "1.5",
+        "__typename": "VisitorReviewScore"
+      },
+      {
+        "count": null,
+        "score": "2.0",
+        "__typename": "VisitorReviewScore"
+      },
+      {
+        "count": null,
+        "score": "2.5",
+        "__typename": "VisitorReviewScore"
+      },
+      {
+        "count": null,
+        "score": "3.0",
+        "__typename": "VisitorReviewScore"
+      },
+      {
+        "count": null,
+        "score": "3.5",
+        "__typename": "VisitorReviewScore"
+      },
+      {
+        "count": null,
+        "score": "4.0",
+        "__typename": "VisitorReviewScore"
+      },
+      {
+        "count": null,
+        "score": "4.5",
+        "__typename": "VisitorReviewScore"
+      },
+      {
+        "count": null,
+        "score": "5.0",
+        "__typename": "VisitorReviewScore"
+      }
+    ],
+    "imageReviewCount": 193,
+    "authorCount": 3535,
+    "maxSingleReviewScoreCount": 584,
+    "maxScoreWithMaxCount": "5.0",
+    "__typename": "VisitorReviewStats"
+  },
+  "analysis": {
+    "themes": [
+      {
+        "code": "service",
+        "label": "서비스",
+        "count": 71,
+        "__typename": "VisitorReviewStatsAnalysisThemes"
+      },
+      {
+        "code": "congestion",
+        "label": "혼잡도",
+        "count": 48,
+        "__typename": "VisitorReviewStatsAnalysisThemes"
+      },
+      {
+        "code": "price",
+        "label": "가격",
+        "count": 23,
+        "__typename": "VisitorReviewStatsAnalysisThemes"
+      },
+      {
+        "code": "show",
+        "label": "작품관람",
+        "count": 21,
+        "__typename": "VisitorReviewStatsAnalysisThemes"
+      },
+      {
+        "code": "equipment",
+        "label": "공연・전시공간",
+        "count": 13,
+        "__typename": "VisitorReviewStatsAnalysisThemes"
+      },
+      {
+        "code": "facilities",
+        "label": "편의시설",
+        "count": 6,
+        "__typename": "VisitorReviewStatsAnalysisThemes"
+      },
+      {
+        "code": "parking",
+        "label": "주차",
+        "count": 3,
+        "__typename": "VisitorReviewStatsAnalysisThemes"
+      },
+      {
+        "code": "admission",
+        "label": "입장",
+        "count": 2,
+        "__typename": "VisitorReviewStatsAnalysisThemes"
+      },
+      {
+        "code": "naver",
+        "label": "예약",
+        "count": 1,
+        "__typename": "VisitorReviewStatsAnalysisThemes"
+      },
+      {
+        "code": "covid19",
+        "label": "방역",
+        "count": 1,
+        "__typename": "VisitorReviewStatsAnalysisThemes"
+      },
+      {
+        "code": "performer",
+        "label": "작가・출연진",
+        "count": 1,
+        "__typename": "VisitorReviewStatsAnalysisThemes"
+      },
+      {
+        "code": "seat",
+        "label": "좌석",
+        "count": 1,
+        "__typename": "VisitorReviewStatsAnalysisThemes"
+      }
+    ],
+    "menus": [],
+    "votedKeyword": null,
+    "__typename": "VisitorReviewStatsAnalysis"
+  },
+  "visitorReviewsTotal": 4097,
+  "ratingReviewsTotal": 1119,
+  "__typename": "VisitorReviewStatsResult"
+}

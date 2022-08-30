@@ -1,0 +1,4513 @@
+{
+  "list": [
+    {
+      "RK": 1,
+      "ITS_BRO_NM": "코엑스",
+      "ADDR_ROAD_NM": "서울 강남구 영동대로 513-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 615091
+    },
+    {
+      "RK": 2,
+      "ITS_BRO_NM": "SETEC",
+      "ADDR_ROAD_NM": "서울 강남구 남부순환로 3104-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 82302
+    },
+    {
+      "RK": 3,
+      "ITS_BRO_NM": "봉은사",
+      "ADDR_ROAD_NM": "서울 강남구 봉은사로 531-0",
+      "KTO_CATE_MCLS_NM": "역사관광",
+      "KTO_CATE_SCLS_NM": "종교성지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 71235
+    },
+    {
+      "RK": 4,
+      "ITS_BRO_NM": "신사동가로수길",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "테마공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 58843
+    },
+    {
+      "RK": 5,
+      "ITS_BRO_NM": "아쿠아리움코엑스몰점",
+      "ADDR_ROAD_NM": "서울 강남구 영동대로 513-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "테마공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 56885
+    },
+    {
+      "RK": 6,
+      "ITS_BRO_NM": "도산공원",
+      "ADDR_ROAD_NM": "서울 강남구 도산대로45길 20-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 34462
+    },
+    {
+      "RK": 7,
+      "ITS_BRO_NM": "더라움",
+      "ADDR_ROAD_NM": "서울 강남구 언주로 564-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 34232
+    },
+    {
+      "RK": 8,
+      "ITS_BRO_NM": "CGV강남",
+      "ADDR_ROAD_NM": "서울 강남구 강남대로 438-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 30517
+    },
+    {
+      "RK": 9,
+      "ITS_BRO_NM": "CGV청담씨네시티",
+      "ADDR_ROAD_NM": "서울 강남구 도산대로 323-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 29561
+    },
+    {
+      "RK": 10,
+      "ITS_BRO_NM": "광림아트센터BBCH홀",
+      "ADDR_ROAD_NM": "서울 강남구 논현로163길 33-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 28217
+    },
+    {
+      "RK": 11,
+      "ITS_BRO_NM": "메가박스코엑스",
+      "ADDR_ROAD_NM": "서울 강남구 봉은사로 524-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 27155
+    },
+    {
+      "RK": 12,
+      "ITS_BRO_NM": "CGV압구정본관",
+      "ADDR_ROAD_NM": "서울 강남구 논현로 848-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 22575
+    },
+    {
+      "RK": 13,
+      "ITS_BRO_NM": "KT&G상상마당대치아트홀",
+      "ADDR_ROAD_NM": "서울 강남구 영동대로 416-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 18588
+    },
+    {
+      "RK": 14,
+      "ITS_BRO_NM": "롯데시네마도곡",
+      "ADDR_ROAD_NM": "서울 강남구 남부순환로 2753-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 17951
+    },
+    {
+      "RK": 15,
+      "ITS_BRO_NM": "압구정로데오거리",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "테마공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 17924
+    },
+    {
+      "RK": 16,
+      "ITS_BRO_NM": "금강쇼핑센터",
+      "ADDR_ROAD_NM": "서울 강남구 압구정로 201-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "쇼핑몰",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 17307
+    },
+    {
+      "RK": 17,
+      "ITS_BRO_NM": "선정릉",
+      "ADDR_ROAD_NM": "서울 강남구 선릉로100길 1-0",
+      "KTO_CATE_MCLS_NM": "역사관광",
+      "KTO_CATE_SCLS_NM": "역사유적지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 16482
+    },
+    {
+      "RK": 18,
+      "ITS_BRO_NM": "세븐럭코엑스센터점",
+      "ADDR_ROAD_NM": "서울 강남구 테헤란로87길 58-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "기타문화관광지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 16445
+    },
+    {
+      "RK": 19,
+      "ITS_BRO_NM": "백암아트홀",
+      "ADDR_ROAD_NM": "서울 강남구 테헤란로113길 7-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 14733
+    },
+    {
+      "RK": 20,
+      "ITS_BRO_NM": "마이아트뮤지엄",
+      "ADDR_ROAD_NM": "서울 강남구 테헤란로 518-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 14502
+    },
+    {
+      "RK": 21,
+      "ITS_BRO_NM": "LG아트센터",
+      "ADDR_ROAD_NM": "서울 강남구 논현로 508-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 14423
+    },
+    {
+      "RK": 22,
+      "ITS_BRO_NM": "능인선원포이동법당",
+      "ADDR_ROAD_NM": "서울 강남구 양재대로 340-0",
+      "KTO_CATE_MCLS_NM": "역사관광",
+      "KTO_CATE_SCLS_NM": "종교성지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 13430
+    },
+    {
+      "RK": 23,
+      "ITS_BRO_NM": "라움아트센터",
+      "ADDR_ROAD_NM": "서울 강남구 언주로 564-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 9600
+    },
+    {
+      "RK": 24,
+      "ITS_BRO_NM": "마루공원",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 9517
+    },
+    {
+      "RK": 25,
+      "ITS_BRO_NM": "신한아트홀",
+      "ADDR_ROAD_NM": "서울 강남구 역삼로 251-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 9507
+    },
+    {
+      "RK": 26,
+      "ITS_BRO_NM": "메종에르메스",
+      "ADDR_ROAD_NM": "서울 강남구 도산대로45길 7-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "쇼핑몰",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 8982
+    },
+    {
+      "RK": 27,
+      "ITS_BRO_NM": "신구스포츠센터",
+      "ADDR_ROAD_NM": "서울 강남구 압구정로18길 28-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 8005
+    },
+    {
+      "RK": 28,
+      "ITS_BRO_NM": "서울옥션강남센터",
+      "ADDR_ROAD_NM": "서울 강남구 언주로 864-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "기타문화관광지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 7906
+    },
+    {
+      "RK": 29,
+      "ITS_BRO_NM": "윤당아트홀",
+      "ADDR_ROAD_NM": "서울 강남구 언주로 844-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 7752
+    },
+    {
+      "RK": 30,
+      "ITS_BRO_NM": "CGV압구정신관",
+      "ADDR_ROAD_NM": "서울 강남구 압구정로30길 45-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 7478
+    },
+    {
+      "RK": 31,
+      "ITS_BRO_NM": "역삼청소년수련관",
+      "ADDR_ROAD_NM": "서울 강남구 논현로64길 7-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "육상레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 7353
+    },
+    {
+      "RK": 32,
+      "ITS_BRO_NM": "코엑스아티움",
+      "ADDR_ROAD_NM": "서울 강남구 영동대로 513-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 6794
+    },
+    {
+      "RK": 33,
+      "ITS_BRO_NM": "롯데시네마브로드웨이",
+      "ADDR_ROAD_NM": "서울 강남구 도산대로 118-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 6771
+    },
+    {
+      "RK": 34,
+      "ITS_BRO_NM": "선릉",
+      "ADDR_ROAD_NM": "서울 강남구 선릉로100길 1-0",
+      "KTO_CATE_MCLS_NM": "역사관광",
+      "KTO_CATE_SCLS_NM": "역사유적지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 6760
+    },
+    {
+      "RK": 35,
+      "ITS_BRO_NM": "대치유수지체육공원",
+      "ADDR_ROAD_NM": "서울 강남구 역삼로107길 20-30",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 6309
+    },
+    {
+      "RK": 36,
+      "ITS_BRO_NM": "식물관PH",
+      "ADDR_ROAD_NM": "서울 강남구 광평로34길 24-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "기타문화관광지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 6215
+    },
+    {
+      "RK": 37,
+      "ITS_BRO_NM": "더클라임양재점",
+      "ADDR_ROAD_NM": "서울 강남구 남부순환로 2615-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 5904
+    },
+    {
+      "RK": 38,
+      "ITS_BRO_NM": "SAC아트홀",
+      "ADDR_ROAD_NM": "서울 강남구 삼성로 534-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 5805
+    },
+    {
+      "RK": 39,
+      "ITS_BRO_NM": "은곡마을공원",
+      "ADDR_ROAD_NM": "서울 강남구 헌릉로571길 34-3",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 5800
+    },
+    {
+      "RK": 40,
+      "ITS_BRO_NM": "현대모터스튜디오서울",
+      "ADDR_ROAD_NM": "서울 강남구 언주로 738-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 5768
+    },
+    {
+      "RK": 41,
+      "ITS_BRO_NM": "한국문화의집",
+      "ADDR_ROAD_NM": "서울 강남구 테헤란로92길 12-9",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 5640
+    },
+    {
+      "RK": 42,
+      "ITS_BRO_NM": "메가박스강남대로",
+      "ADDR_ROAD_NM": "서울 강남구 강남대로 422-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 5555
+    },
+    {
+      "RK": 43,
+      "ITS_BRO_NM": "신사공원",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 5549
+    },
+    {
+      "RK": 44,
+      "ITS_BRO_NM": "써밋갤러리",
+      "ADDR_ROAD_NM": "서울 강남구 영동대로 337-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "기타문화관광지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 5480
+    },
+    {
+      "RK": 45,
+      "ITS_BRO_NM": "티몬",
+      "ADDR_ROAD_NM": "서울 강남구 테헤란로114길 38-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 5414
+    },
+    {
+      "RK": 46,
+      "ITS_BRO_NM": "기아360",
+      "ADDR_ROAD_NM": "서울 강남구 압구정로 417-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "기타문화관광지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 5404
+    },
+    {
+      "RK": 47,
+      "ITS_BRO_NM": "현대백화점면세점무역센터점",
+      "ADDR_ROAD_NM": "서울 강남구 테헤란로 517-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "면세점",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 5361
+    },
+    {
+      "RK": 48,
+      "ITS_BRO_NM": "대모산도시자연공원",
+      "ADDR_ROAD_NM": "서울 강남구 광평로10길 50-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 5292
+    },
+    {
+      "RK": 49,
+      "ITS_BRO_NM": "아성다이소본사",
+      "ADDR_ROAD_NM": "서울 강남구 남부순환로 2748-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 5100
+    },
+    {
+      "RK": 50,
+      "ITS_BRO_NM": "청담도로공원",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 5090
+    },
+    {
+      "RK": 51,
+      "ITS_BRO_NM": "율현공원",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 4781
+    },
+    {
+      "RK": 52,
+      "ITS_BRO_NM": "아이코스스토어가로수길점",
+      "ADDR_ROAD_NM": "서울 강남구 압구정로10길 27-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 4767
+    },
+    {
+      "RK": 53,
+      "ITS_BRO_NM": "한솔공원",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 4646
+    },
+    {
+      "RK": 54,
+      "ITS_BRO_NM": "광림아트센터장천홀",
+      "ADDR_ROAD_NM": "서울 강남구 압구정로22길 21-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 4640
+    },
+    {
+      "RK": 55,
+      "ITS_BRO_NM": "K현대미술관",
+      "ADDR_ROAD_NM": "서울 강남구 선릉로 807-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 4536
+    },
+    {
+      "RK": 56,
+      "ITS_BRO_NM": "학동공원",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 4524
+    },
+    {
+      "RK": 57,
+      "ITS_BRO_NM": "예림당아트홀",
+      "ADDR_ROAD_NM": "서울 강남구 언주로 337-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 4197
+    },
+    {
+      "RK": 58,
+      "ITS_BRO_NM": "삼익아트홀",
+      "ADDR_ROAD_NM": "서울 강남구 학동로 171-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 4175
+    },
+    {
+      "RK": 59,
+      "ITS_BRO_NM": "강남문화원",
+      "ADDR_ROAD_NM": "서울 강남구 테헤란로8길 36-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "교육시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 4052
+    },
+    {
+      "RK": 60,
+      "ITS_BRO_NM": "논현동가구거리",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 3960
+    },
+    {
+      "RK": 61,
+      "ITS_BRO_NM": "일원에코파크",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 3796
+    },
+    {
+      "RK": 62,
+      "ITS_BRO_NM": "강남개포시장",
+      "ADDR_ROAD_NM": "서울 강남구 개포로 512-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 3690
+    },
+    {
+      "RK": 63,
+      "ITS_BRO_NM": "도곡시장",
+      "ADDR_ROAD_NM": "서울 강남구 선릉로 317-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "시장",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 3455
+    },
+    {
+      "RK": 64,
+      "ITS_BRO_NM": "일지아트홀",
+      "ADDR_ROAD_NM": "서울 강남구 선릉로 806-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 3125
+    },
+    {
+      "RK": 65,
+      "ITS_BRO_NM": "그랜드컨퍼런스룸코엑스",
+      "ADDR_ROAD_NM": "서울 강남구 영동대로 513-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 2970
+    },
+    {
+      "RK": 66,
+      "ITS_BRO_NM": "세일아트홀",
+      "ADDR_ROAD_NM": "서울 강남구 논현로 414-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 2864
+    },
+    {
+      "RK": 67,
+      "ITS_BRO_NM": "중대부고풋살장",
+      "ADDR_ROAD_NM": "서울 강남구 선릉로 207-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "레저스포츠시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 2863
+    },
+    {
+      "RK": 68,
+      "ITS_BRO_NM": "코엑스오디토리움",
+      "ADDR_ROAD_NM": "서울 강남구 영동대로 513-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 2714
+    },
+    {
+      "RK": 69,
+      "ITS_BRO_NM": "철두철미",
+      "ADDR_ROAD_NM": "서울 강남구 논현로128길 24-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 2681
+    },
+    {
+      "RK": 70,
+      "ITS_BRO_NM": "법룡사",
+      "ADDR_ROAD_NM": "서울 강남구 광평로31길 56-0",
+      "KTO_CATE_MCLS_NM": "역사관광",
+      "KTO_CATE_SCLS_NM": "종교성지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 2664
+    },
+    {
+      "RK": 71,
+      "ITS_BRO_NM": "코엑스동측광장",
+      "ADDR_ROAD_NM": "서울 강남구 영동대로 513-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 2654
+    },
+    {
+      "RK": 72,
+      "ITS_BRO_NM": "신사시장",
+      "ADDR_ROAD_NM": "서울 강남구 압구정로29길 72-1",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "시장",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 2647
+    },
+    {
+      "RK": 73,
+      "ITS_BRO_NM": "청담공원",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 2636
+    },
+    {
+      "RK": 74,
+      "ITS_BRO_NM": "총지사",
+      "ADDR_ROAD_NM": "서울 강남구 도곡로25길 35-0",
+      "KTO_CATE_MCLS_NM": "역사관광",
+      "KTO_CATE_SCLS_NM": "종교성지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 2570
+    },
+    {
+      "RK": 75,
+      "ITS_BRO_NM": "송은",
+      "ADDR_ROAD_NM": "서울 강남구 도산대로 441-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 2553
+    },
+    {
+      "RK": 76,
+      "ITS_BRO_NM": "코엑스아트홀",
+      "ADDR_ROAD_NM": "서울 강남구 영동대로 511-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 2486
+    },
+    {
+      "RK": 77,
+      "ITS_BRO_NM": "위지윅스튜디오",
+      "ADDR_ROAD_NM": "서울 강남구 언주로170길 20-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 2423
+    },
+    {
+      "RK": 78,
+      "ITS_BRO_NM": "일원장미공원",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 2298
+    },
+    {
+      "RK": 79,
+      "ITS_BRO_NM": "LF 라움이스트",
+      "ADDR_ROAD_NM": "서울 강남구 언주로 872-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "쇼핑몰",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 2278
+    },
+    {
+      "RK": 80,
+      "ITS_BRO_NM": "실험누리과학관",
+      "ADDR_ROAD_NM": "서울 강남구 도곡로 408-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 2257
+    },
+    {
+      "RK": 81,
+      "ITS_BRO_NM": "다이소대치본점",
+      "ADDR_ROAD_NM": "서울 강남구 도곡로 435-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 2216
+    },
+    {
+      "RK": 82,
+      "ITS_BRO_NM": "성암아트홀",
+      "ADDR_ROAD_NM": "서울 강남구 선릉로111길 6-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 2198
+    },
+    {
+      "RK": 83,
+      "ITS_BRO_NM": "시몬스 그로서리 스토어청담점",
+      "ADDR_ROAD_NM": "서울 강남구 선릉로158길 14-1",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 2141
+    },
+    {
+      "RK": 84,
+      "ITS_BRO_NM": "서울종합예술실용학교아트센터",
+      "ADDR_ROAD_NM": "서울 강남구 삼성로 534-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 2120
+    },
+    {
+      "RK": 85,
+      "ITS_BRO_NM": "준액자",
+      "ADDR_ROAD_NM": "서울 강남구 도산대로25길 37-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 2074
+    },
+    {
+      "RK": 86,
+      "ITS_BRO_NM": "라살사",
+      "ADDR_ROAD_NM": "서울 강남구 테헤란로13길 12-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 2066
+    },
+    {
+      "RK": 87,
+      "ITS_BRO_NM": "SJ쿤스트할레",
+      "ADDR_ROAD_NM": "서울 강남구 언주로148길 5-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "기타문화관광지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 2055
+    },
+    {
+      "RK": 88,
+      "ITS_BRO_NM": "무신사",
+      "ADDR_ROAD_NM": "서울 강남구 언주로174길 30-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 1993
+    },
+    {
+      "RK": 89,
+      "ITS_BRO_NM": "퀀텀스킬트레이닝랩",
+      "ADDR_ROAD_NM": "서울 강남구 언주로168길 32-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 1894
+    },
+    {
+      "RK": 90,
+      "ITS_BRO_NM": "플랜잇프로덕션",
+      "ADDR_ROAD_NM": "서울 강남구 언주로133길 15-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 1869
+    },
+    {
+      "RK": 91,
+      "ITS_BRO_NM": "세실아트홀",
+      "ADDR_ROAD_NM": "서울 강남구 언주로173길 20-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 1848
+    },
+    {
+      "RK": 92,
+      "ITS_BRO_NM": "세라믹팔레스홀",
+      "ADDR_ROAD_NM": "서울 강남구 일원로 90-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 1761
+    },
+    {
+      "RK": 93,
+      "ITS_BRO_NM": "렛츠런CCC강남지점",
+      "ADDR_ROAD_NM": "서울 강남구 도산대로 529-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "육상레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 1696
+    },
+    {
+      "RK": 94,
+      "ITS_BRO_NM": "롯데면세점코엑스점",
+      "ADDR_ROAD_NM": "서울 강남구 테헤란로87길 58-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "면세점",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 1691
+    },
+    {
+      "RK": 95,
+      "ITS_BRO_NM": "플랫폼엘컨템포러리아트센터",
+      "ADDR_ROAD_NM": "서울 강남구 언주로133길 11-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 1657
+    },
+    {
+      "RK": 96,
+      "ITS_BRO_NM": "일상비일상의틈",
+      "ADDR_ROAD_NM": "서울 강남구 강남대로 426-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "기타문화관광지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 1648
+    },
+    {
+      "RK": 97,
+      "ITS_BRO_NM": "신사목련공원",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 1626
+    },
+    {
+      "RK": 98,
+      "ITS_BRO_NM": "파티팡강남점",
+      "ADDR_ROAD_NM": "서울 강남구 봉은사로 169-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 1560
+    },
+    {
+      "RK": 99,
+      "ITS_BRO_NM": "호림박물관신사분관",
+      "ADDR_ROAD_NM": "서울 강남구 도산대로 317-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 1550
+    },
+    {
+      "RK": 100,
+      "ITS_BRO_NM": "하나특판",
+      "ADDR_ROAD_NM": "서울 강남구 개포로28길 10-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 1539
+    },
+    {
+      "RK": 101,
+      "ITS_BRO_NM": "코엑스그랜드볼룸",
+      "ADDR_ROAD_NM": "서울 강남구 영동대로 513-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 1533
+    },
+    {
+      "RK": 102,
+      "ITS_BRO_NM": "광야아트센터",
+      "ADDR_ROAD_NM": "서울 강남구 선릉로 806-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 1514
+    },
+    {
+      "RK": 103,
+      "ITS_BRO_NM": "강남관광정보센터",
+      "ADDR_ROAD_NM": "서울 강남구 압구정로 161-0",
+      "KTO_CATE_MCLS_NM": "기타관광",
+      "KTO_CATE_SCLS_NM": "기타관광",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 1506
+    },
+    {
+      "RK": 104,
+      "ITS_BRO_NM": "스트레칭조이",
+      "ADDR_ROAD_NM": "서울 강남구 삼성로84길 5-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 1476
+    },
+    {
+      "RK": 105,
+      "ITS_BRO_NM": "옴니바디웍스청담",
+      "ADDR_ROAD_NM": "서울 강남구 압구정로 461-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 1462
+    },
+    {
+      "RK": 106,
+      "ITS_BRO_NM": "새턴바스",
+      "ADDR_ROAD_NM": "서울 강남구 학동로 206-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 1422
+    },
+    {
+      "RK": 107,
+      "ITS_BRO_NM": "위캔두잇",
+      "ADDR_ROAD_NM": "서울 강남구 학동로50길 23-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 1420
+    },
+    {
+      "RK": 108,
+      "ITS_BRO_NM": "민속극장풍류",
+      "ADDR_ROAD_NM": "서울 강남구 봉은사로 406-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 1411
+    },
+    {
+      "RK": 109,
+      "ITS_BRO_NM": "레솔베르",
+      "ADDR_ROAD_NM": "서울 강남구 도산대로57길 13-4",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 1396
+    },
+    {
+      "RK": 110,
+      "ITS_BRO_NM": "M극장",
+      "ADDR_ROAD_NM": "서울 강남구 논현로4길 36-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 1395
+    },
+    {
+      "RK": 111,
+      "ITS_BRO_NM": "사회복지법인능인선원",
+      "ADDR_ROAD_NM": "서울 강남구 양재대로 340-0",
+      "KTO_CATE_MCLS_NM": "역사관광",
+      "KTO_CATE_SCLS_NM": "종교성지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 1360
+    },
+    {
+      "RK": 112,
+      "ITS_BRO_NM": "스타필드코엑스몰",
+      "ADDR_ROAD_NM": "서울 강남구 영동대로 513-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "쇼핑몰",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 1357
+    },
+    {
+      "RK": 113,
+      "ITS_BRO_NM": "윙갤러리빌딩",
+      "ADDR_ROAD_NM": "서울 강남구 압구정로62길 17-10",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 1353
+    },
+    {
+      "RK": 114,
+      "ITS_BRO_NM": "역삼소나무공원",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 1352
+    },
+    {
+      "RK": 115,
+      "ITS_BRO_NM": "역삼개나리공원",
+      "ADDR_ROAD_NM": "서울 강남구 논현로79길 24-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 1328
+    },
+    {
+      "RK": 116,
+      "ITS_BRO_NM": "슈피겐홀",
+      "ADDR_ROAD_NM": "서울 강남구 봉은사로 446-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 1312
+    },
+    {
+      "RK": 117,
+      "ITS_BRO_NM": "크로스핏페인스톰",
+      "ADDR_ROAD_NM": "서울 강남구 논현로176길 14-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 1298
+    },
+    {
+      "RK": 118,
+      "ITS_BRO_NM": "신영프라자",
+      "ADDR_ROAD_NM": "서울 강남구 일원로 95-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "쇼핑몰",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 1292
+    },
+    {
+      "RK": 119,
+      "ITS_BRO_NM": "파르나스몰",
+      "ADDR_ROAD_NM": "서울 강남구 테헤란로 521-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "쇼핑몰",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 1257
+    },
+    {
+      "RK": 120,
+      "ITS_BRO_NM": "아트컨티뉴",
+      "ADDR_ROAD_NM": "서울 강남구 테헤란로13길 30-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 1244
+    },
+    {
+      "RK": 121,
+      "ITS_BRO_NM": "국제아트홀",
+      "ADDR_ROAD_NM": "서울 강남구 압구정로 162-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 1241
+    },
+    {
+      "RK": 122,
+      "ITS_BRO_NM": "리버시티수상스키장",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "수상레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 1220
+    },
+    {
+      "RK": 123,
+      "ITS_BRO_NM": "유로아시아",
+      "ADDR_ROAD_NM": "서울 강남구 언주로157길 26-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 1197
+    },
+    {
+      "RK": 124,
+      "ITS_BRO_NM": "GPNB",
+      "ADDR_ROAD_NM": "서울 강남구 강남대로156길 31-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 1188
+    },
+    {
+      "RK": 125,
+      "ITS_BRO_NM": "쇼박스",
+      "ADDR_ROAD_NM": "서울 강남구 도산대로 310-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 1154
+    },
+    {
+      "RK": 126,
+      "ITS_BRO_NM": "54K SPORTS",
+      "ADDR_ROAD_NM": "서울 강남구 언주로103길 18-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 1151
+    },
+    {
+      "RK": 127,
+      "ITS_BRO_NM": "조은숙갤러리",
+      "ADDR_ROAD_NM": "서울 강남구 압구정로80길 37-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 1136
+    },
+    {
+      "RK": 128,
+      "ITS_BRO_NM": "예화랑",
+      "ADDR_ROAD_NM": "서울 강남구 가로수길 73-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 1128
+    },
+    {
+      "RK": 129,
+      "ITS_BRO_NM": "청호불교문화원",
+      "ADDR_ROAD_NM": "서울 강남구 언주로148길 14-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "교육시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 1081
+    },
+    {
+      "RK": 130,
+      "ITS_BRO_NM": "포이근린공원",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 1078
+    },
+    {
+      "RK": 131,
+      "ITS_BRO_NM": "양신스포츠아카데미",
+      "ADDR_ROAD_NM": "서울 강남구 논현로10길 29-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 1045
+    },
+    {
+      "RK": 132,
+      "ITS_BRO_NM": "아치앤컬",
+      "ADDR_ROAD_NM": "서울 강남구 도산대로 456-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 1040
+    },
+    {
+      "RK": 133,
+      "ITS_BRO_NM": "탄허기념불교박물관",
+      "ADDR_ROAD_NM": "서울 강남구 밤고개로14길 13-51",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 1016
+    },
+    {
+      "RK": 134,
+      "ITS_BRO_NM": "금강선원",
+      "ADDR_ROAD_NM": "서울 강남구 개포로82길 11-0",
+      "KTO_CATE_MCLS_NM": "역사관광",
+      "KTO_CATE_SCLS_NM": "종교성지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 1000
+    },
+    {
+      "RK": 135,
+      "ITS_BRO_NM": "일인자",
+      "ADDR_ROAD_NM": "서울 강남구 도산대로85길 35-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 984
+    },
+    {
+      "RK": 136,
+      "ITS_BRO_NM": "640아트타워",
+      "ADDR_ROAD_NM": "서울 강남구 언주로172길 25-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 974
+    },
+    {
+      "RK": 137,
+      "ITS_BRO_NM": "강남사격장",
+      "ADDR_ROAD_NM": "서울 강남구 양재대로33길 14-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "육상레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 965
+    },
+    {
+      "RK": 138,
+      "ITS_BRO_NM": "현대백화점하늘공원",
+      "ADDR_ROAD_NM": "서울 강남구 압구정로 165-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 923
+    },
+    {
+      "RK": 139,
+      "ITS_BRO_NM": "타우너스",
+      "ADDR_ROAD_NM": "서울 강남구 테헤란로28길 41-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "기타문화관광지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 918
+    },
+    {
+      "RK": 140,
+      "ITS_BRO_NM": "키즈스플래쉬압구정점",
+      "ADDR_ROAD_NM": "서울 강남구 압구정로 308-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "테마공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 905
+    },
+    {
+      "RK": 141,
+      "ITS_BRO_NM": "봉주상회",
+      "ADDR_ROAD_NM": "서울 강남구 도산대로25길 11-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 903
+    },
+    {
+      "RK": 142,
+      "ITS_BRO_NM": "풍림프라자쇼핑",
+      "ADDR_ROAD_NM": "서울 강남구 남부순환로 2942-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "쇼핑몰",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 888
+    },
+    {
+      "RK": 143,
+      "ITS_BRO_NM": "정릉",
+      "ADDR_ROAD_NM": "서울 강남구 선릉로100길 1-0",
+      "KTO_CATE_MCLS_NM": "역사관광",
+      "KTO_CATE_SCLS_NM": "역사유적지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 879
+    },
+    {
+      "RK": 144,
+      "ITS_BRO_NM": "논현까치공원",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 863
+    },
+    {
+      "RK": 145,
+      "ITS_BRO_NM": "에이스메이커",
+      "ADDR_ROAD_NM": "서울 강남구 도산대로78길 36-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 844
+    },
+    {
+      "RK": 146,
+      "ITS_BRO_NM": "스톤사운드웍스",
+      "ADDR_ROAD_NM": "서울 강남구 언주로141길 31-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 826
+    },
+    {
+      "RK": 147,
+      "ITS_BRO_NM": "한티근린공원",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 815
+    },
+    {
+      "RK": 148,
+      "ITS_BRO_NM": "HJ컨벤션센터",
+      "ADDR_ROAD_NM": "서울 강남구 테헤란로 332-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "기타문화관광지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 812
+    },
+    {
+      "RK": 149,
+      "ITS_BRO_NM": "유나이티드갤러리",
+      "ADDR_ROAD_NM": "서울 강남구 강남대로102길 41-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 803
+    },
+    {
+      "RK": 150,
+      "ITS_BRO_NM": "2GIL29갤러리",
+      "ADDR_ROAD_NM": "서울 강남구 강남대로158길 35-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 799
+    },
+    {
+      "RK": 151,
+      "ITS_BRO_NM": "역삼까치공원",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 794
+    },
+    {
+      "RK": 152,
+      "ITS_BRO_NM": "루시드컬러",
+      "ADDR_ROAD_NM": "서울 강남구 논현로132길 37-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 778
+    },
+    {
+      "RK": 153,
+      "ITS_BRO_NM": "클라이밍파크한티점",
+      "ADDR_ROAD_NM": "서울 강남구 선릉로 324-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 777
+    },
+    {
+      "RK": 154,
+      "ITS_BRO_NM": "양재천벚꽃길",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "기타관광",
+      "KTO_CATE_SCLS_NM": "기타관광",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 774
+    },
+    {
+      "RK": 155,
+      "ITS_BRO_NM": "다이소매봉역점",
+      "ADDR_ROAD_NM": "서울 강남구 남부순환로 2748-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 756
+    },
+    {
+      "RK": 156,
+      "ITS_BRO_NM": "코엑스윈터페스티벌",
+      "ADDR_ROAD_NM": "서울 강남구 영동대로 513-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "기타문화관광지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 738
+    },
+    {
+      "RK": 157,
+      "ITS_BRO_NM": "불국사",
+      "ADDR_ROAD_NM": "서울 강남구 광평로10길 30-71",
+      "KTO_CATE_MCLS_NM": "역사관광",
+      "KTO_CATE_SCLS_NM": "종교성지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 731
+    },
+    {
+      "RK": 158,
+      "ITS_BRO_NM": "더스마티움",
+      "ADDR_ROAD_NM": "서울 강남구 밤고개로 206-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 730
+    },
+    {
+      "RK": 159,
+      "ITS_BRO_NM": "베어홀",
+      "ADDR_ROAD_NM": "서울 강남구 봉은사로 644-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 729
+    },
+    {
+      "RK": 160,
+      "ITS_BRO_NM": "강남씨어터",
+      "ADDR_ROAD_NM": "서울 강남구 역삼로7길 16-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 728
+    },
+    {
+      "RK": 160,
+      "ITS_BRO_NM": "경운박물관",
+      "ADDR_ROAD_NM": "서울 강남구 삼성로 29-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 728
+    },
+    {
+      "RK": 162,
+      "ITS_BRO_NM": "은행나무공원",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 724
+    },
+    {
+      "RK": 163,
+      "ITS_BRO_NM": "스페이스씨",
+      "ADDR_ROAD_NM": "서울 강남구 언주로 827-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 715
+    },
+    {
+      "RK": 164,
+      "ITS_BRO_NM": "행원심인당",
+      "ADDR_ROAD_NM": "서울 강남구 선릉로85길 27-0",
+      "KTO_CATE_MCLS_NM": "역사관광",
+      "KTO_CATE_SCLS_NM": "종교성지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 710
+    },
+    {
+      "RK": 165,
+      "ITS_BRO_NM": "르라보가로수길지점",
+      "ADDR_ROAD_NM": "서울 강남구 압구정로10길 28-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 708
+    },
+    {
+      "RK": 166,
+      "ITS_BRO_NM": "남현희인터내셔널펜싱아카데미",
+      "ADDR_ROAD_NM": "서울 강남구 자곡로 110-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 699
+    },
+    {
+      "RK": 167,
+      "ITS_BRO_NM": "마롱197",
+      "ADDR_ROAD_NM": "서울 강남구 테헤란로4길 37-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 696
+    },
+    {
+      "RK": 168,
+      "ITS_BRO_NM": "개나리공원",
+      "ADDR_ROAD_NM": "서울 강남구 논현로123길 19-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 690
+    },
+    {
+      "RK": 169,
+      "ITS_BRO_NM": "에이와스튜디오",
+      "ADDR_ROAD_NM": "서울 강남구 강남대로132길 25-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 688
+    },
+    {
+      "RK": 170,
+      "ITS_BRO_NM": "대청공원",
+      "ADDR_ROAD_NM": "서울 강남구 개포로116길 21-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 659
+    },
+    {
+      "RK": 171,
+      "ITS_BRO_NM": "슈페리어갤러리",
+      "ADDR_ROAD_NM": "서울 강남구 테헤란로 528-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 653
+    },
+    {
+      "RK": 172,
+      "ITS_BRO_NM": "원화랑",
+      "ADDR_ROAD_NM": "서울 강남구 압구정로71길 14-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 646
+    },
+    {
+      "RK": 173,
+      "ITS_BRO_NM": "다이소세곡점",
+      "ADDR_ROAD_NM": "서울 강남구 헌릉로569길 21-36",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 640
+    },
+    {
+      "RK": 174,
+      "ITS_BRO_NM": "마담주",
+      "ADDR_ROAD_NM": "서울 강남구 삼성로149길 3-10",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "시장",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 633
+    },
+    {
+      "RK": 175,
+      "ITS_BRO_NM": "신사은행나무공원",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 628
+    },
+    {
+      "RK": 175,
+      "ITS_BRO_NM": "영동전통시장",
+      "ADDR_ROAD_NM": "서울 강남구 학동로4길 35-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "시장",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 628
+    },
+    {
+      "RK": 177,
+      "ITS_BRO_NM": "릴공식서비스센터강남점",
+      "ADDR_ROAD_NM": "서울 강남구 논현로28길 49-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 620
+    },
+    {
+      "RK": 178,
+      "ITS_BRO_NM": "동성철물건재",
+      "ADDR_ROAD_NM": "서울 강남구 역삼로 516-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 615
+    },
+    {
+      "RK": 179,
+      "ITS_BRO_NM": "삼성해맞이공원",
+      "ADDR_ROAD_NM": "서울 강남구 영동대로128길 39-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 609
+    },
+    {
+      "RK": 180,
+      "ITS_BRO_NM": "위드발레아카데미",
+      "ADDR_ROAD_NM": "서울 강남구 테헤란로25길 15-5",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 599
+    },
+    {
+      "RK": 181,
+      "ITS_BRO_NM": "아이러브아트홀",
+      "ADDR_ROAD_NM": "서울 강남구 압구정로32길 30-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 594
+    },
+    {
+      "RK": 182,
+      "ITS_BRO_NM": "가로골목",
+      "ADDR_ROAD_NM": "서울 강남구 가로수길 36-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "쇼핑몰",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 576
+    },
+    {
+      "RK": 183,
+      "ITS_BRO_NM": "팀스턴건짐",
+      "ADDR_ROAD_NM": "서울 강남구 도산대로25길 39-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 569
+    },
+    {
+      "RK": 184,
+      "ITS_BRO_NM": "세곡어린이실내놀이터",
+      "ADDR_ROAD_NM": "서울 강남구 헌릉로618길 7-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "테마공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 564
+    },
+    {
+      "RK": 185,
+      "ITS_BRO_NM": "고알레클럽하우스",
+      "ADDR_ROAD_NM": "서울 강남구 도산대로 326-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 562
+    },
+    {
+      "RK": 186,
+      "ITS_BRO_NM": "포니정홀",
+      "ADDR_ROAD_NM": "서울 강남구 영동대로 520-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 561
+    },
+    {
+      "RK": 187,
+      "ITS_BRO_NM": "신사상가",
+      "ADDR_ROAD_NM": "서울 강남구 압구정로29길 72-1",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "시장",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 554
+    },
+    {
+      "RK": 188,
+      "ITS_BRO_NM": "방죽소공원",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 546
+    },
+    {
+      "RK": 189,
+      "ITS_BRO_NM": "십화점",
+      "ADDR_ROAD_NM": "서울 강남구 선릉로162길 5-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 537
+    },
+    {
+      "RK": 190,
+      "ITS_BRO_NM": "강남시장",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "시장",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 534
+    },
+    {
+      "RK": 191,
+      "ITS_BRO_NM": "팀치빈",
+      "ADDR_ROAD_NM": "서울 강남구 역삼로 441-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 530
+    },
+    {
+      "RK": 192,
+      "ITS_BRO_NM": "갤러리케이아트노믹스청담본점",
+      "ADDR_ROAD_NM": "서울 강남구 도산대로55길 16-6",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 529
+    },
+    {
+      "RK": 193,
+      "ITS_BRO_NM": "마리아칼라스홀",
+      "ADDR_ROAD_NM": "서울 강남구 영동대로 315-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 528
+    },
+    {
+      "RK": 194,
+      "ITS_BRO_NM": "마루공원풋살구장",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 526
+    },
+    {
+      "RK": 194,
+      "ITS_BRO_NM": "현대백화점면세점본사",
+      "ADDR_ROAD_NM": "서울 강남구 영동대로82길 19-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "면세점",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 526
+    },
+    {
+      "RK": 196,
+      "ITS_BRO_NM": "비커스랩",
+      "ADDR_ROAD_NM": "서울 강남구 언주로 537-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 524
+    },
+    {
+      "RK": 197,
+      "ITS_BRO_NM": "케이스티파이",
+      "ADDR_ROAD_NM": "서울 강남구 가로수길 45-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 515
+    },
+    {
+      "RK": 198,
+      "ITS_BRO_NM": "쿤달본사",
+      "ADDR_ROAD_NM": "서울 강남구 학동로23길 13-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 506
+    },
+    {
+      "RK": 199,
+      "ITS_BRO_NM": "생각하는박물관",
+      "ADDR_ROAD_NM": "서울 강남구 삼성로147길 34-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "기타문화관광지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 505
+    },
+    {
+      "RK": 199,
+      "ITS_BRO_NM": "서울무비웍스",
+      "ADDR_ROAD_NM": "서울 강남구 학동로3길 32-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 505
+    },
+    {
+      "RK": 201,
+      "ITS_BRO_NM": "비블럭클라이밍강남점",
+      "ADDR_ROAD_NM": "서울 강남구 논현로 563-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 500
+    },
+    {
+      "RK": 202,
+      "ITS_BRO_NM": "야바베이스볼",
+      "ADDR_ROAD_NM": "서울 강남구 선릉로108길 53-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 498
+    },
+    {
+      "RK": 203,
+      "ITS_BRO_NM": "논현종합시장",
+      "ADDR_ROAD_NM": "서울 강남구 봉은사로33길 33-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "시장",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 493
+    },
+    {
+      "RK": 204,
+      "ITS_BRO_NM": "피규어뮤지엄W",
+      "ADDR_ROAD_NM": "서울 강남구 선릉로158길 3-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 489
+    },
+    {
+      "RK": 205,
+      "ITS_BRO_NM": "다이소압구정역점",
+      "ADDR_ROAD_NM": "서울 강남구 논현로 878-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 488
+    },
+    {
+      "RK": 206,
+      "ITS_BRO_NM": "아트홀가얏고을",
+      "ADDR_ROAD_NM": "서울 강남구 테헤란로 337-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 480
+    },
+    {
+      "RK": 207,
+      "ITS_BRO_NM": "오웬클럽스쿼시",
+      "ADDR_ROAD_NM": "서울 강남구 언주로 118-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 476
+    },
+    {
+      "RK": 207,
+      "ITS_BRO_NM": "청담탁구장",
+      "ADDR_ROAD_NM": "서울 강남구 삼성로126길 14-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 476
+    },
+    {
+      "RK": 209,
+      "ITS_BRO_NM": "젠테라피네츄럴힐링센터",
+      "ADDR_ROAD_NM": "서울 강남구 봉은사로82길 5-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 470
+    },
+    {
+      "RK": 210,
+      "ITS_BRO_NM": "VTC청담점",
+      "ADDR_ROAD_NM": "서울 강남구 도산대로56길 10-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 467
+    },
+    {
+      "RK": 211,
+      "ITS_BRO_NM": "부티크와인",
+      "ADDR_ROAD_NM": "서울 강남구 도산대로 322-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 462
+    },
+    {
+      "RK": 212,
+      "ITS_BRO_NM": "전주이씨광평대군파묘역",
+      "ADDR_ROAD_NM": "서울 강남구 광평로31길 20-0",
+      "KTO_CATE_MCLS_NM": "역사관광",
+      "KTO_CATE_SCLS_NM": "역사유적지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 460
+    },
+    {
+      "RK": 213,
+      "ITS_BRO_NM": "윤남진펜싱클럽대치점",
+      "ADDR_ROAD_NM": "서울 강남구 선릉로76길 4-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 459
+    },
+    {
+      "RK": 213,
+      "ITS_BRO_NM": "피겨앤그라운드",
+      "ADDR_ROAD_NM": "서울 강남구 논현로153길 53-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "기타문화관광지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 459
+    },
+    {
+      "RK": 215,
+      "ITS_BRO_NM": "플로우핏",
+      "ADDR_ROAD_NM": "서울 강남구 압구정로28길 18-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 453
+    },
+    {
+      "RK": 216,
+      "ITS_BRO_NM": "다이소선릉점",
+      "ADDR_ROAD_NM": "서울 강남구 테헤란로 414-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 429
+    },
+    {
+      "RK": 217,
+      "ITS_BRO_NM": "갤러리나우",
+      "ADDR_ROAD_NM": "서울 강남구 언주로152길 16-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 428
+    },
+    {
+      "RK": 218,
+      "ITS_BRO_NM": "에스파스루이비통서울",
+      "ADDR_ROAD_NM": "서울 강남구 압구정로 454-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 414
+    },
+    {
+      "RK": 219,
+      "ITS_BRO_NM": "킨포크도산",
+      "ADDR_ROAD_NM": "서울 강남구 언주로168길 24-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 412
+    },
+    {
+      "RK": 220,
+      "ITS_BRO_NM": "한국가곡예술마을나음아트홀",
+      "ADDR_ROAD_NM": "서울 강남구 논현로10길 28-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 407
+    },
+    {
+      "RK": 221,
+      "ITS_BRO_NM": "김리아갤러리",
+      "ADDR_ROAD_NM": "서울 강남구 압구정로75길 5-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 403
+    },
+    {
+      "RK": 222,
+      "ITS_BRO_NM": "리나갤러리",
+      "ADDR_ROAD_NM": "서울 강남구 논현로142길 43-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 399
+    },
+    {
+      "RK": 223,
+      "ITS_BRO_NM": "MBC건축박람회(SETEC)",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "기타문화관광지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 398
+    },
+    {
+      "RK": 224,
+      "ITS_BRO_NM": "몽마르뜨액자",
+      "ADDR_ROAD_NM": "서울 강남구 학동로 443-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 395
+    },
+    {
+      "RK": 225,
+      "ITS_BRO_NM": "북쌔즈",
+      "ADDR_ROAD_NM": "서울 강남구 테헤란로 311-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "기타문화관광지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 394
+    },
+    {
+      "RK": 226,
+      "ITS_BRO_NM": "스튜디오앤뉴",
+      "ADDR_ROAD_NM": "서울 강남구 학동로9길 5-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 393
+    },
+    {
+      "RK": 227,
+      "ITS_BRO_NM": "아크로갤러리",
+      "ADDR_ROAD_NM": "서울 강남구 언주로 812-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 389
+    },
+    {
+      "RK": 228,
+      "ITS_BRO_NM": "영화사집",
+      "ADDR_ROAD_NM": "서울 강남구 학동로31길 24-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 387
+    },
+    {
+      "RK": 229,
+      "ITS_BRO_NM": "메이크업매직",
+      "ADDR_ROAD_NM": "서울 강남구 논현로167길 16-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 382
+    },
+    {
+      "RK": 230,
+      "ITS_BRO_NM": "산바다스포츠",
+      "ADDR_ROAD_NM": "서울 강남구 강남대로140길 46-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 378
+    },
+    {
+      "RK": 231,
+      "ITS_BRO_NM": "다이소대치역점",
+      "ADDR_ROAD_NM": "서울 강남구 남부순환로 2921-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 376
+    },
+    {
+      "RK": 232,
+      "ITS_BRO_NM": "강남수상레져",
+      "ADDR_ROAD_NM": "서울 강남구 압구정로11길 37-30",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "수상레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 372
+    },
+    {
+      "RK": 233,
+      "ITS_BRO_NM": "압구정풋살스튜디오",
+      "ADDR_ROAD_NM": "서울 강남구 압구정로50길 28-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 362
+    },
+    {
+      "RK": 234,
+      "ITS_BRO_NM": "ggallery",
+      "ADDR_ROAD_NM": "서울 강남구 삼성로 748-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 355
+    },
+    {
+      "RK": 235,
+      "ITS_BRO_NM": "갤러리더스페이스",
+      "ADDR_ROAD_NM": "서울 강남구 학동로77길 34-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 354
+    },
+    {
+      "RK": 236,
+      "ITS_BRO_NM": "지웅파인아트갤러리서울점",
+      "ADDR_ROAD_NM": "서울 강남구 도산대로81길 16-4",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 350
+    },
+    {
+      "RK": 237,
+      "ITS_BRO_NM": "와인컬렉터",
+      "ADDR_ROAD_NM": "서울 강남구 테헤란로 329-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 346
+    },
+    {
+      "RK": 238,
+      "ITS_BRO_NM": "갤러리두",
+      "ADDR_ROAD_NM": "서울 강남구 삼성로 726-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 342
+    },
+    {
+      "RK": 239,
+      "ITS_BRO_NM": "티몬",
+      "ADDR_ROAD_NM": "서울 강남구 압구정로 118-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 340
+    },
+    {
+      "RK": 240,
+      "ITS_BRO_NM": "도산안창호기념관",
+      "ADDR_ROAD_NM": "서울 강남구 도산대로45길 20-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 336
+    },
+    {
+      "RK": 240,
+      "ITS_BRO_NM": "제이케이필름",
+      "ADDR_ROAD_NM": "서울 강남구 논현로132길 15-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 336
+    },
+    {
+      "RK": 242,
+      "ITS_BRO_NM": "덕암사",
+      "ADDR_ROAD_NM": "서울 강남구 밤고개로23길 24-18",
+      "KTO_CATE_MCLS_NM": "역사관광",
+      "KTO_CATE_SCLS_NM": "종교성지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 334
+    },
+    {
+      "RK": 243,
+      "ITS_BRO_NM": "일원어린이실내놀이터",
+      "ADDR_ROAD_NM": "서울 강남구 영동대로 22-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "테마공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 332
+    },
+    {
+      "RK": 244,
+      "ITS_BRO_NM": "다이소영동프라자점",
+      "ADDR_ROAD_NM": "서울 강남구 강남대로128길 20-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 331
+    },
+    {
+      "RK": 245,
+      "ITS_BRO_NM": "에이원민턴스킬트레이닝센터청담점",
+      "ADDR_ROAD_NM": "서울 강남구 영동대로131길 14-3",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 323
+    },
+    {
+      "RK": 246,
+      "ITS_BRO_NM": "유시어터",
+      "ADDR_ROAD_NM": "서울 강남구 도산대로58길 16-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 321
+    },
+    {
+      "RK": 247,
+      "ITS_BRO_NM": "VSG아레나",
+      "ADDR_ROAD_NM": "서울 강남구 테헤란로44길 8-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "기타문화관광지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 312
+    },
+    {
+      "RK": 248,
+      "ITS_BRO_NM": "로데오프라자",
+      "ADDR_ROAD_NM": "서울 강남구 삼성로 772-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 310
+    },
+    {
+      "RK": 248,
+      "ITS_BRO_NM": "카스텔로716",
+      "ADDR_ROAD_NM": "서울 강남구 삼성로 716-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "기타문화관광지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 310
+    },
+    {
+      "RK": 250,
+      "ITS_BRO_NM": "리젠트프라이빗짐",
+      "ADDR_ROAD_NM": "서울 강남구 논현로119길 23-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 302
+    },
+    {
+      "RK": 250,
+      "ITS_BRO_NM": "DL이앤씨주택전시관",
+      "ADDR_ROAD_NM": "서울 강남구 언주로 812-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "기타문화관광지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 302
+    },
+    {
+      "RK": 252,
+      "ITS_BRO_NM": "넵튠수상스키장압구정점",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "수상레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 300
+    },
+    {
+      "RK": 253,
+      "ITS_BRO_NM": "피카소24",
+      "ADDR_ROAD_NM": "서울 강남구 강남대로84길 15-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 289
+    },
+    {
+      "RK": 254,
+      "ITS_BRO_NM": "매봉산실내배드민턴장",
+      "ADDR_ROAD_NM": "서울 강남구 남부순환로 2711-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 287
+    },
+    {
+      "RK": 254,
+      "ITS_BRO_NM": "포스코센터아트홀",
+      "ADDR_ROAD_NM": "서울 강남구 테헤란로 440-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "기타문화관광지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 287
+    },
+    {
+      "RK": 256,
+      "ITS_BRO_NM": "탄천양재천방문자센터",
+      "ADDR_ROAD_NM": "서울 강남구 남부순환로 3143-0",
+      "KTO_CATE_MCLS_NM": "기타관광",
+      "KTO_CATE_SCLS_NM": "기타관광",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 284
+    },
+    {
+      "RK": 257,
+      "ITS_BRO_NM": "착한갤러리강남점",
+      "ADDR_ROAD_NM": "서울 강남구 학동로53길 3-12",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 282
+    },
+    {
+      "RK": 258,
+      "ITS_BRO_NM": "갤러리 블루스톤",
+      "ADDR_ROAD_NM": "서울 강남구 논현로151길 58-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 281
+    },
+    {
+      "RK": 259,
+      "ITS_BRO_NM": "하이리빙드림스퀘어",
+      "ADDR_ROAD_NM": "서울 강남구 테헤란로5길 51-17",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 280
+    },
+    {
+      "RK": 260,
+      "ITS_BRO_NM": "논현목련공원",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 279
+    },
+    {
+      "RK": 261,
+      "ITS_BRO_NM": "아줄레주갤러리",
+      "ADDR_ROAD_NM": "서울 강남구 삼성로149길 10-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 276
+    },
+    {
+      "RK": 262,
+      "ITS_BRO_NM": "세라듀",
+      "ADDR_ROAD_NM": "서울 강남구 논현로 332-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 275
+    },
+    {
+      "RK": 263,
+      "ITS_BRO_NM": "래몽래인",
+      "ADDR_ROAD_NM": "서울 강남구 학동로25길 19-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 271
+    },
+    {
+      "RK": 264,
+      "ITS_BRO_NM": "논현탁구클럽",
+      "ADDR_ROAD_NM": "서울 강남구 논현로126길 19-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 262
+    },
+    {
+      "RK": 264,
+      "ITS_BRO_NM": "챔피온",
+      "ADDR_ROAD_NM": "서울 강남구 영동대로142길 15-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 262
+    },
+    {
+      "RK": 266,
+      "ITS_BRO_NM": "도곡까치어린이공원",
+      "ADDR_ROAD_NM": "서울 강남구 논현로26길 34-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 258
+    },
+    {
+      "RK": 267,
+      "ITS_BRO_NM": "압구정토끼굴",
+      "ADDR_ROAD_NM": "서울 강남구 압구정로 0-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "테마공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 257
+    },
+    {
+      "RK": 268,
+      "ITS_BRO_NM": "SNPE바른자세척추운동강남본원",
+      "ADDR_ROAD_NM": "서울 강남구 선릉로 823-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 253
+    },
+    {
+      "RK": 269,
+      "ITS_BRO_NM": "노블레스컬렉션",
+      "ADDR_ROAD_NM": "서울 강남구 선릉로162길 13-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 251
+    },
+    {
+      "RK": 269,
+      "ITS_BRO_NM": "역삼공원",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 251
+    },
+    {
+      "RK": 271,
+      "ITS_BRO_NM": "THINKTHINK어린이미술관",
+      "ADDR_ROAD_NM": "서울 강남구 봉은사로68길 19-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 247
+    },
+    {
+      "RK": 271,
+      "ITS_BRO_NM": "힐링사커아카데미",
+      "ADDR_ROAD_NM": "서울 강남구 선릉로 630-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 247
+    },
+    {
+      "RK": 273,
+      "ITS_BRO_NM": "청담동거리",
+      "ADDR_ROAD_NM": "서울 강남구 압구정로 0-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "테마공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 243
+    },
+    {
+      "RK": 274,
+      "ITS_BRO_NM": "다이소강남구청역점",
+      "ADDR_ROAD_NM": "서울 강남구 학동로 지하 346-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 242
+    },
+    {
+      "RK": 274,
+      "ITS_BRO_NM": "다이소도곡점",
+      "ADDR_ROAD_NM": "서울 강남구 도곡로 188-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 242
+    },
+    {
+      "RK": 276,
+      "ITS_BRO_NM": "ADM커뮤니티갤러리",
+      "ADDR_ROAD_NM": "서울 강남구 역삼로14길 20-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "기타문화관광지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 239
+    },
+    {
+      "RK": 276,
+      "ITS_BRO_NM": "LG아트센터오픈예정(2022년10월)",
+      "ADDR_ROAD_NM": "서울 강서구 마곡중앙로 136-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강서구",
+      "SRCH_CNT": 239
+    },
+    {
+      "RK": 278,
+      "ITS_BRO_NM": "갤러리벨비",
+      "ADDR_ROAD_NM": "서울 강남구 언주로146길 9-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 233
+    },
+    {
+      "RK": 279,
+      "ITS_BRO_NM": "대치은행나무공원",
+      "ADDR_ROAD_NM": "서울 강남구 선릉로76길 11-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 230
+    },
+    {
+      "RK": 280,
+      "ITS_BRO_NM": "헤븐센스",
+      "ADDR_ROAD_NM": "서울 강남구 학동로82길 17-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 229
+    },
+    {
+      "RK": 281,
+      "ITS_BRO_NM": "신사개나리공원",
+      "ADDR_ROAD_NM": "서울 강남구 압구정로30길 23-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 227
+    },
+    {
+      "RK": 282,
+      "ITS_BRO_NM": "안인자기념관",
+      "ADDR_ROAD_NM": "서울 강남구 남부순환로 2807-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 226
+    },
+    {
+      "RK": 282,
+      "ITS_BRO_NM": "유아트스페이스",
+      "ADDR_ROAD_NM": "서울 강남구 압구정로71길 10-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 226
+    },
+    {
+      "RK": 284,
+      "ITS_BRO_NM": "그랜드인터컨티넨탈그랜드볼룸",
+      "ADDR_ROAD_NM": "서울 강남구 테헤란로 521-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 224
+    },
+    {
+      "RK": 285,
+      "ITS_BRO_NM": "오드포트",
+      "ADDR_ROAD_NM": "서울 강남구 도산대로25길 15-10",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "기타문화관광지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 223
+    },
+    {
+      "RK": 286,
+      "ITS_BRO_NM": "더그라운드베이스볼아카데미",
+      "ADDR_ROAD_NM": "서울 강남구 논현로 543-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 212
+    },
+    {
+      "RK": 286,
+      "ITS_BRO_NM": "시원미트",
+      "ADDR_ROAD_NM": "서울 강남구 도산대로46길 21-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "시장",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 212
+    },
+    {
+      "RK": 288,
+      "ITS_BRO_NM": "프레임픽쳐스",
+      "ADDR_ROAD_NM": "서울 강남구 역삼로 218-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 210
+    },
+    {
+      "RK": 289,
+      "ITS_BRO_NM": "대치목련공원",
+      "ADDR_ROAD_NM": "서울 강남구 도곡로77길 0-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 207
+    },
+    {
+      "RK": 290,
+      "ITS_BRO_NM": "클라임이모션",
+      "ADDR_ROAD_NM": "서울 강남구 논현로76길 27-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 206
+    },
+    {
+      "RK": 291,
+      "ITS_BRO_NM": "뭅뭅모던핏",
+      "ADDR_ROAD_NM": "서울 강남구 도산대로 159-5",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 203
+    },
+    {
+      "RK": 291,
+      "ITS_BRO_NM": "스킬펜싱클럽",
+      "ADDR_ROAD_NM": "서울 강남구 학동로67길 5-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 203
+    },
+    {
+      "RK": 291,
+      "ITS_BRO_NM": "형지탁구클럽",
+      "ADDR_ROAD_NM": "서울 강남구 역삼로 460-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 203
+    },
+    {
+      "RK": 294,
+      "ITS_BRO_NM": "주영갤러리",
+      "ADDR_ROAD_NM": "서울 강남구 압구정로80길 26-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 201
+    },
+    {
+      "RK": 295,
+      "ITS_BRO_NM": "청담프라그랑스본점",
+      "ADDR_ROAD_NM": "서울 강남구 학동로101길 21-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 200
+    },
+    {
+      "RK": 296,
+      "ITS_BRO_NM": "법수선원",
+      "ADDR_ROAD_NM": "서울 강남구 헌릉로590길 109-30",
+      "KTO_CATE_MCLS_NM": "역사관광",
+      "KTO_CATE_SCLS_NM": "종교성지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 199
+    },
+    {
+      "RK": 296,
+      "ITS_BRO_NM": "그레이시주짓수서울",
+      "ADDR_ROAD_NM": "서울 강남구 봉은사로 108-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 199
+    },
+    {
+      "RK": 298,
+      "ITS_BRO_NM": "오페라갤러리",
+      "ADDR_ROAD_NM": "서울 강남구 언주로154길 18-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 197
+    },
+    {
+      "RK": 298,
+      "ITS_BRO_NM": "애들라인",
+      "ADDR_ROAD_NM": "서울 강남구 봉은사로74길 6-0",
+      "KTO_CATE_MCLS_NM": "체험관광",
+      "KTO_CATE_SCLS_NM": "공예체험",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 197
+    },
+    {
+      "RK": 300,
+      "ITS_BRO_NM": "현악사",
+      "ADDR_ROAD_NM": "서울 강남구 압구정로 224-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 196
+    },
+    {
+      "RK": 301,
+      "ITS_BRO_NM": "섬유센터이벤트홀",
+      "ADDR_ROAD_NM": "서울 강남구 테헤란로 518-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 195
+    },
+    {
+      "RK": 302,
+      "ITS_BRO_NM": "대진공원",
+      "ADDR_ROAD_NM": "서울 강남구 개포로109길 21-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 193
+    },
+    {
+      "RK": 303,
+      "ITS_BRO_NM": "경기검도관",
+      "ADDR_ROAD_NM": "서울 강남구 개포로 615-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 191
+    },
+    {
+      "RK": 303,
+      "ITS_BRO_NM": "서울경향하우징페어",
+      "ADDR_ROAD_NM": "서울 강남구 남부순환로 3104-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "기타문화관광지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 191
+    },
+    {
+      "RK": 305,
+      "ITS_BRO_NM": "아트코드갤러리",
+      "ADDR_ROAD_NM": "서울 강남구 언주로126길 13-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 190
+    },
+    {
+      "RK": 306,
+      "ITS_BRO_NM": "웨이브몬스터댄스스튜디오",
+      "ADDR_ROAD_NM": "서울 강남구 논현로111길 42-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 186
+    },
+    {
+      "RK": 307,
+      "ITS_BRO_NM": "갤러리이마주",
+      "ADDR_ROAD_NM": "서울 강남구 테헤란로20길 12-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 185
+    },
+    {
+      "RK": 308,
+      "ITS_BRO_NM": "에이원민턴강남본점",
+      "ADDR_ROAD_NM": "서울 강남구 학동로38길 25-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 184
+    },
+    {
+      "RK": 309,
+      "ITS_BRO_NM": "우라늄이삼팔",
+      "ADDR_ROAD_NM": "서울 강남구 논현로133길 10-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 181
+    },
+    {
+      "RK": 310,
+      "ITS_BRO_NM": "다이소강남2호점",
+      "ADDR_ROAD_NM": "서울 강남구 테헤란로 109-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 177
+    },
+    {
+      "RK": 311,
+      "ITS_BRO_NM": "국기원태권도상설공연위대한태권도",
+      "ADDR_ROAD_NM": "서울 강남구 테헤란로7길 32-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "기타문화관광지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 176
+    },
+    {
+      "RK": 311,
+      "ITS_BRO_NM": "압구정공원3",
+      "ADDR_ROAD_NM": "서울 강남구 논현로164길 14-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 176
+    },
+    {
+      "RK": 311,
+      "ITS_BRO_NM": "크로스핏강남",
+      "ADDR_ROAD_NM": "서울 강남구 강남대로 578-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 176
+    },
+    {
+      "RK": 314,
+      "ITS_BRO_NM": "BNS발레강남점",
+      "ADDR_ROAD_NM": "서울 강남구 테헤란로6길 29-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 175
+    },
+    {
+      "RK": 315,
+      "ITS_BRO_NM": "건사이트",
+      "ADDR_ROAD_NM": "서울 강남구 논현로164길 6-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "육상레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 173
+    },
+    {
+      "RK": 316,
+      "ITS_BRO_NM": "2448문화랑",
+      "ADDR_ROAD_NM": "서울 강남구 논현로24길 48-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 171
+    },
+    {
+      "RK": 316,
+      "ITS_BRO_NM": "호리아트스페이스",
+      "ADDR_ROAD_NM": "서울 강남구 압구정로80길 26-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 171
+    },
+    {
+      "RK": 318,
+      "ITS_BRO_NM": "배꽃근린공원",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 170
+    },
+    {
+      "RK": 319,
+      "ITS_BRO_NM": "진선여자고등학교회당기념관",
+      "ADDR_ROAD_NM": "서울 강남구 선릉로85길 27-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 169
+    },
+    {
+      "RK": 320,
+      "ITS_BRO_NM": "구름쥬스",
+      "ADDR_ROAD_NM": "서울 강남구 테헤란로87길 51-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 168
+    },
+    {
+      "RK": 321,
+      "ITS_BRO_NM": "이유진갤러리",
+      "ADDR_ROAD_NM": "서울 강남구 압구정로77길 17-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 167
+    },
+    {
+      "RK": 321,
+      "ITS_BRO_NM": "청담은행나무공원",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 167
+    },
+    {
+      "RK": 323,
+      "ITS_BRO_NM": "프랑꼬아트랩",
+      "ADDR_ROAD_NM": "서울 강남구 강남대로110길 38-0",
+      "KTO_CATE_MCLS_NM": "체험관광",
+      "KTO_CATE_SCLS_NM": "공예체험",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 163
+    },
+    {
+      "RK": 324,
+      "ITS_BRO_NM": "도곡목련공원",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 162
+    },
+    {
+      "RK": 325,
+      "ITS_BRO_NM": "다이소강남본점",
+      "ADDR_ROAD_NM": "서울 강남구 강남대로 372-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 160
+    },
+    {
+      "RK": 326,
+      "ITS_BRO_NM": "하이스트리트이탈리아",
+      "ADDR_ROAD_NM": "서울 강남구 가로수길 69-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "기타문화관광지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 159
+    },
+    {
+      "RK": 326,
+      "ITS_BRO_NM": "하이트컬렉션",
+      "ADDR_ROAD_NM": "서울 강남구 영동대로 714-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 159
+    },
+    {
+      "RK": 328,
+      "ITS_BRO_NM": "경륜경정강남지점",
+      "ADDR_ROAD_NM": "서울 강남구 학동로 171-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "육상레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 158
+    },
+    {
+      "RK": 328,
+      "ITS_BRO_NM": "아뜰리에에르메스",
+      "ADDR_ROAD_NM": "서울 강남구 도산대로45길 7-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 158
+    },
+    {
+      "RK": 330,
+      "ITS_BRO_NM": "예원화랑",
+      "ADDR_ROAD_NM": "서울 강남구 삼성로 319-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 157
+    },
+    {
+      "RK": 330,
+      "ITS_BRO_NM": "도곡공원",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 157
+    },
+    {
+      "RK": 332,
+      "ITS_BRO_NM": "삼성까치공원",
+      "ADDR_ROAD_NM": "서울 강남구 봉은사로105길 54-1",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 156
+    },
+    {
+      "RK": 333,
+      "ITS_BRO_NM": "편집인",
+      "ADDR_ROAD_NM": "서울 강남구 선릉로141길 24-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 153
+    },
+    {
+      "RK": 334,
+      "ITS_BRO_NM": "아시아고아트홀",
+      "ADDR_ROAD_NM": "서울 강남구 언주로153길 17-2",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 152
+    },
+    {
+      "RK": 335,
+      "ITS_BRO_NM": "KP댄스스포츠",
+      "ADDR_ROAD_NM": "서울 강남구 학동로 166-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 150
+    },
+    {
+      "RK": 336,
+      "ITS_BRO_NM": "꽃가마",
+      "ADDR_ROAD_NM": "서울 강남구 삼성로 225-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 149
+    },
+    {
+      "RK": 337,
+      "ITS_BRO_NM": "데이코하우스",
+      "ADDR_ROAD_NM": "서울 강남구 영동대로 237-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 148
+    },
+    {
+      "RK": 338,
+      "ITS_BRO_NM": "갤러리스탠",
+      "ADDR_ROAD_NM": "서울 강남구 학동로12길 45-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 145
+    },
+    {
+      "RK": 339,
+      "ITS_BRO_NM": "삼성탁구클럽",
+      "ADDR_ROAD_NM": "서울 강남구 선릉로72길 40-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 144
+    },
+    {
+      "RK": 339,
+      "ITS_BRO_NM": "스파크플러스강남3호점",
+      "ADDR_ROAD_NM": "서울 강남구 테헤란로 123-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "기타문화관광지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 144
+    },
+    {
+      "RK": 341,
+      "ITS_BRO_NM": "글로빅엔터테인먼트",
+      "ADDR_ROAD_NM": "서울 강남구 봉은사로44길 31-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 142
+    },
+    {
+      "RK": 342,
+      "ITS_BRO_NM": "남양철물건재",
+      "ADDR_ROAD_NM": "서울 강남구 강남대로152길 29-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 141
+    },
+    {
+      "RK": 343,
+      "ITS_BRO_NM": "늘벗공원",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 139
+    },
+    {
+      "RK": 343,
+      "ITS_BRO_NM": "몽슈슈청담플래그십",
+      "ADDR_ROAD_NM": "서울 강남구 도산대로67길 30-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 139
+    },
+    {
+      "RK": 345,
+      "ITS_BRO_NM": "역삼상가종합시장",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "시장",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 138
+    },
+    {
+      "RK": 346,
+      "ITS_BRO_NM": "네모네강남역점",
+      "ADDR_ROAD_NM": "서울 강남구 강남대로 420-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 137
+    },
+    {
+      "RK": 346,
+      "ITS_BRO_NM": "하카전자담배강남구청점",
+      "ADDR_ROAD_NM": "서울 강남구 학동로 342-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 137
+    },
+    {
+      "RK": 348,
+      "ITS_BRO_NM": "아트뮤제",
+      "ADDR_ROAD_NM": "서울 강남구 역삼로 424-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 136
+    },
+    {
+      "RK": 349,
+      "ITS_BRO_NM": "간지수족관",
+      "ADDR_ROAD_NM": "서울 강남구 남부순환로365길 49-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "테마공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 134
+    },
+    {
+      "RK": 349,
+      "ITS_BRO_NM": "타잔101클라이밍압구정점",
+      "ADDR_ROAD_NM": "서울 강남구 압구정로28길 11-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 134
+    },
+    {
+      "RK": 351,
+      "ITS_BRO_NM": "국수호디딤무용단",
+      "ADDR_ROAD_NM": "서울 강남구 역삼로92길 17-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "기타문화관광지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 133
+    },
+    {
+      "RK": 351,
+      "ITS_BRO_NM": "원더베이프 전자담배강남점",
+      "ADDR_ROAD_NM": "서울 강남구 테헤란로4길 46-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 133
+    },
+    {
+      "RK": 351,
+      "ITS_BRO_NM": "갤러리JJ",
+      "ADDR_ROAD_NM": "서울 강남구 논현로 745-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 133
+    },
+    {
+      "RK": 354,
+      "ITS_BRO_NM": "복싱인사이드짐역삼직영점",
+      "ADDR_ROAD_NM": "서울 강남구 역삼로 159-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 132
+    },
+    {
+      "RK": 355,
+      "ITS_BRO_NM": "본팩토리",
+      "ADDR_ROAD_NM": "서울 강남구 삼성로119길 45-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 131
+    },
+    {
+      "RK": 355,
+      "ITS_BRO_NM": "태원엔터테인먼트",
+      "ADDR_ROAD_NM": "서울 강남구 도산대로 318-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 131
+    },
+    {
+      "RK": 357,
+      "ITS_BRO_NM": "SPACE22",
+      "ADDR_ROAD_NM": "서울 강남구 강남대로 390-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 129
+    },
+    {
+      "RK": 358,
+      "ITS_BRO_NM": "월터워커일원점",
+      "ADDR_ROAD_NM": "서울 강남구 일원로 115-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 127
+    },
+    {
+      "RK": 358,
+      "ITS_BRO_NM": "자주신논현점",
+      "ADDR_ROAD_NM": "서울 강남구 강남대로 498-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 127
+    },
+    {
+      "RK": 358,
+      "ITS_BRO_NM": "클램프갤러리",
+      "ADDR_ROAD_NM": "서울 강남구 논현로26길 39-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 127
+    },
+    {
+      "RK": 361,
+      "ITS_BRO_NM": "인성빌딩",
+      "ADDR_ROAD_NM": "서울 강남구 학동로 148-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 126
+    },
+    {
+      "RK": 362,
+      "ITS_BRO_NM": "신사까치공원",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 125
+    },
+    {
+      "RK": 363,
+      "ITS_BRO_NM": "갤러리508",
+      "ADDR_ROAD_NM": "서울 강남구 도산대로67길 14-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 124
+    },
+    {
+      "RK": 364,
+      "ITS_BRO_NM": "리스튜디오",
+      "ADDR_ROAD_NM": "서울 강남구 삼성로147길 66-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 122
+    },
+    {
+      "RK": 365,
+      "ITS_BRO_NM": "두껍상회서울강남점",
+      "ADDR_ROAD_NM": "서울 강남구 강남대로 420-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 121
+    },
+    {
+      "RK": 366,
+      "ITS_BRO_NM": "영화사테이크",
+      "ADDR_ROAD_NM": "서울 강남구 영동대로106길 27-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 120
+    },
+    {
+      "RK": 367,
+      "ITS_BRO_NM": "댄스조아강남역점",
+      "ADDR_ROAD_NM": "서울 강남구 역삼로3길 17-6",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 118
+    },
+    {
+      "RK": 367,
+      "ITS_BRO_NM": "갤러리두인",
+      "ADDR_ROAD_NM": "서울 강남구 테헤란로28길 25-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 118
+    },
+    {
+      "RK": 367,
+      "ITS_BRO_NM": "바나나홀",
+      "ADDR_ROAD_NM": "서울 강남구 언주로172길 25-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 118
+    },
+    {
+      "RK": 370,
+      "ITS_BRO_NM": "갤러리보고재",
+      "ADDR_ROAD_NM": "서울 강남구 삼성로126길 6-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 116
+    },
+    {
+      "RK": 371,
+      "ITS_BRO_NM": "서울카페쇼",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "기타문화관광지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 115
+    },
+    {
+      "RK": 372,
+      "ITS_BRO_NM": "와이키키썬더스",
+      "ADDR_ROAD_NM": "서울 강남구 압구정로 104-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 114
+    },
+    {
+      "RK": 372,
+      "ITS_BRO_NM": "학동어린이공원",
+      "ADDR_ROAD_NM": "서울 강남구 언주로116길 27-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 114
+    },
+    {
+      "RK": 374,
+      "ITS_BRO_NM": "데드포인트",
+      "ADDR_ROAD_NM": "서울 강남구 학동로44길 8-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 113
+    },
+    {
+      "RK": 374,
+      "ITS_BRO_NM": "유림아트홀",
+      "ADDR_ROAD_NM": "서울 강남구 압구정로28길 49-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 113
+    },
+    {
+      "RK": 376,
+      "ITS_BRO_NM": "충현1공원",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 112
+    },
+    {
+      "RK": 377,
+      "ITS_BRO_NM": "삼성목련공원",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 111
+    },
+    {
+      "RK": 377,
+      "ITS_BRO_NM": "알란스",
+      "ADDR_ROAD_NM": "서울 강남구 논현로161길 17-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 111
+    },
+    {
+      "RK": 377,
+      "ITS_BRO_NM": "하카전자담배강남선릉직영점",
+      "ADDR_ROAD_NM": "서울 강남구 테헤란로52길 16-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 111
+    },
+    {
+      "RK": 380,
+      "ITS_BRO_NM": "다이소신논현역점",
+      "ADDR_ROAD_NM": "서울 강남구 강남대로 470-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 110
+    },
+    {
+      "RK": 381,
+      "ITS_BRO_NM": "렉스바디",
+      "ADDR_ROAD_NM": "서울 강남구 도산대로24길 18-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 109
+    },
+    {
+      "RK": 381,
+      "ITS_BRO_NM": "짚라인코리아",
+      "ADDR_ROAD_NM": "서울 강남구 언주로75길 8-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 109
+    },
+    {
+      "RK": 383,
+      "ITS_BRO_NM": "도날드시럽",
+      "ADDR_ROAD_NM": "서울 강남구 논현로132길 43-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 108
+    },
+    {
+      "RK": 383,
+      "ITS_BRO_NM": "도담어린이공원",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 108
+    },
+    {
+      "RK": 383,
+      "ITS_BRO_NM": "부경에스엠",
+      "ADDR_ROAD_NM": "서울 강남구 도곡로 205-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 108
+    },
+    {
+      "RK": 383,
+      "ITS_BRO_NM": "역삼장미공원",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 108
+    },
+    {
+      "RK": 383,
+      "ITS_BRO_NM": "삼성역전자담배",
+      "ADDR_ROAD_NM": "서울 강남구 영동대로85길 20-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 108
+    },
+    {
+      "RK": 383,
+      "ITS_BRO_NM": "탕컨템포러리아트",
+      "ADDR_ROAD_NM": "서울 강남구 압구정로75길 6-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 108
+    },
+    {
+      "RK": 389,
+      "ITS_BRO_NM": "원영빌딩",
+      "ADDR_ROAD_NM": "서울 강남구 학동로 155-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 105
+    },
+    {
+      "RK": 390,
+      "ITS_BRO_NM": "SKVIEW주택문화관",
+      "ADDR_ROAD_NM": "서울 강남구 학동로 343-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 104
+    },
+    {
+      "RK": 390,
+      "ITS_BRO_NM": "롯데캐슬프리미어공원",
+      "ADDR_ROAD_NM": "서울 강남구 선릉로126길 22-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 104
+    },
+    {
+      "RK": 390,
+      "ITS_BRO_NM": "한스발그로니스트레칭",
+      "ADDR_ROAD_NM": "서울 강남구 압구정로75길 22-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 104
+    },
+    {
+      "RK": 390,
+      "ITS_BRO_NM": "메르시바디연구소",
+      "ADDR_ROAD_NM": "서울 강남구 학동로3길 25-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 104
+    },
+    {
+      "RK": 394,
+      "ITS_BRO_NM": "앤드트리갤러리",
+      "ADDR_ROAD_NM": "서울 강남구 도산대로49길 22-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 103
+    },
+    {
+      "RK": 395,
+      "ITS_BRO_NM": "오픈리뷰",
+      "ADDR_ROAD_NM": "서울 강남구 논현로154길 15-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 102
+    },
+    {
+      "RK": 395,
+      "ITS_BRO_NM": "아이스탑",
+      "ADDR_ROAD_NM": "서울 강남구 삼성로71길 14-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "육상레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 102
+    },
+    {
+      "RK": 397,
+      "ITS_BRO_NM": "락트리강남",
+      "ADDR_ROAD_NM": "서울 강남구 강남대로118길 12-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 101
+    },
+    {
+      "RK": 397,
+      "ITS_BRO_NM": "엘케이스포츠재활운동과학센터",
+      "ADDR_ROAD_NM": "서울 강남구 선릉로131길 8-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 101
+    },
+    {
+      "RK": 397,
+      "ITS_BRO_NM": "잠원한강공원트랙구장",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 101
+    },
+    {
+      "RK": 397,
+      "ITS_BRO_NM": "피티에듀",
+      "ADDR_ROAD_NM": "서울 강남구 봉은사로 479-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 101
+    },
+    {
+      "RK": 401,
+      "ITS_BRO_NM": "래빗워크",
+      "ADDR_ROAD_NM": "서울 강남구 언주로 823-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 99
+    },
+    {
+      "RK": 401,
+      "ITS_BRO_NM": "킹콩전자담배멀티샵강남점",
+      "ADDR_ROAD_NM": "서울 강남구 학동로2길 6-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 99
+    },
+    {
+      "RK": 401,
+      "ITS_BRO_NM": "포스코미술관",
+      "ADDR_ROAD_NM": "서울 강남구 테헤란로 440-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 99
+    },
+    {
+      "RK": 401,
+      "ITS_BRO_NM": "한국기원압구정지원",
+      "ADDR_ROAD_NM": "서울 강남구 압구정로30길 12-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 99
+    },
+    {
+      "RK": 405,
+      "ITS_BRO_NM": "다이소신사점",
+      "ADDR_ROAD_NM": "서울 강남구 강남대로 606-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 97
+    },
+    {
+      "RK": 405,
+      "ITS_BRO_NM": "아이러브아트센터",
+      "ADDR_ROAD_NM": "서울 강남구 압구정로32길 30-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 97
+    },
+    {
+      "RK": 405,
+      "ITS_BRO_NM": "마인드마크",
+      "ADDR_ROAD_NM": "서울 강남구 선릉로162길 35-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 97
+    },
+    {
+      "RK": 405,
+      "ITS_BRO_NM": "길섶근린공원",
+      "ADDR_ROAD_NM": "서울 강남구 언주로70길 36-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 97
+    },
+    {
+      "RK": 409,
+      "ITS_BRO_NM": "313아트프로젝트",
+      "ADDR_ROAD_NM": "서울 강남구 압구정로60길 11-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 95
+    },
+    {
+      "RK": 409,
+      "ITS_BRO_NM": "역삼2작은도서관",
+      "ADDR_ROAD_NM": "서울 강남구 언주로 314-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "기타문화관광지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 95
+    },
+    {
+      "RK": 409,
+      "ITS_BRO_NM": "용인대위너복싱다이어트클럽강남역삼점",
+      "ADDR_ROAD_NM": "서울 강남구 봉은사로30길 74-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 95
+    },
+    {
+      "RK": 412,
+      "ITS_BRO_NM": "이지스튜디오포유어헬스",
+      "ADDR_ROAD_NM": "서울 강남구 봉은사로73길 47-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 94
+    },
+    {
+      "RK": 413,
+      "ITS_BRO_NM": "리버스야구레슨장",
+      "ADDR_ROAD_NM": "서울 강남구 개포로22길 15-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 93
+    },
+    {
+      "RK": 414,
+      "ITS_BRO_NM": "더킹전자담배",
+      "ADDR_ROAD_NM": "서울 강남구 언주로 409-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 92
+    },
+    {
+      "RK": 414,
+      "ITS_BRO_NM": "라움댄스 스튜디오",
+      "ADDR_ROAD_NM": "서울 강남구 봉은사로 315-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 92
+    },
+    {
+      "RK": 416,
+      "ITS_BRO_NM": "강남문화재단",
+      "ADDR_ROAD_NM": "서울 강남구 선릉로 668-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "기타문화관광지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 91
+    },
+    {
+      "RK": 416,
+      "ITS_BRO_NM": "일무갤러리",
+      "ADDR_ROAD_NM": "서울 강남구 논현로157길 20-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 91
+    },
+    {
+      "RK": 416,
+      "ITS_BRO_NM": "개포4복합문화센터건축중(2022년03 완공예정)",
+      "ADDR_ROAD_NM": "서울 강남구 개포로24길 33-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "기타문화관광지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 91
+    },
+    {
+      "RK": 419,
+      "ITS_BRO_NM": "더핏",
+      "ADDR_ROAD_NM": "서울 강남구 언주로30길 13-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 90
+    },
+    {
+      "RK": 419,
+      "ITS_BRO_NM": "라커디움대치점",
+      "ADDR_ROAD_NM": "서울 강남구 삼성로81길 6-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 90
+    },
+    {
+      "RK": 421,
+      "ITS_BRO_NM": "갤러리인데코",
+      "ADDR_ROAD_NM": "서울 강남구 압구정로36길 8-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 89
+    },
+    {
+      "RK": 422,
+      "ITS_BRO_NM": "VTA도곡수련관",
+      "ADDR_ROAD_NM": "서울 강남구 언주로30길 21-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "육상레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 87
+    },
+    {
+      "RK": 422,
+      "ITS_BRO_NM": "젠힐링샵",
+      "ADDR_ROAD_NM": "서울 강남구 봉은사로82길 5-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 87
+    },
+    {
+      "RK": 422,
+      "ITS_BRO_NM": "제인앤클레어",
+      "ADDR_ROAD_NM": "서울 강남구 학동로 168-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 87
+    },
+    {
+      "RK": 425,
+      "ITS_BRO_NM": "갤러리엘르",
+      "ADDR_ROAD_NM": "서울 강남구 봉은사로 224-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 85
+    },
+    {
+      "RK": 426,
+      "ITS_BRO_NM": "UM갤러리",
+      "ADDR_ROAD_NM": "서울 강남구 가로수길 64-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 84
+    },
+    {
+      "RK": 427,
+      "ITS_BRO_NM": "마레461",
+      "ADDR_ROAD_NM": "서울 강남구 광평로42길 4-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 83
+    },
+    {
+      "RK": 428,
+      "ITS_BRO_NM": "일단쏴봐",
+      "ADDR_ROAD_NM": "서울 강남구 강남대로136길 23-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 82
+    },
+    {
+      "RK": 429,
+      "ITS_BRO_NM": "대모산유아숲체험장",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "기타관광",
+      "KTO_CATE_SCLS_NM": "기타관광",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 81
+    },
+    {
+      "RK": 430,
+      "ITS_BRO_NM": "클라이밍파크",
+      "ADDR_ROAD_NM": "서울 강남구 강남대로 468-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 80
+    },
+    {
+      "RK": 431,
+      "ITS_BRO_NM": "KMAXGYM",
+      "ADDR_ROAD_NM": "서울 강남구 논현로155길 6-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 78
+    },
+    {
+      "RK": 431,
+      "ITS_BRO_NM": "서울코믹월드",
+      "ADDR_ROAD_NM": "서울 강남구 남부순환로 3104-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "기타문화관광지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 78
+    },
+    {
+      "RK": 433,
+      "ITS_BRO_NM": "유진갤러리",
+      "ADDR_ROAD_NM": "서울 강남구 압구정로71길 14-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 77
+    },
+    {
+      "RK": 434,
+      "ITS_BRO_NM": "개포근린공원",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 75
+    },
+    {
+      "RK": 434,
+      "ITS_BRO_NM": "다홍엔터테인먼트",
+      "ADDR_ROAD_NM": "서울 강남구 논현로164길 14-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 75
+    },
+    {
+      "RK": 436,
+      "ITS_BRO_NM": "포그로스",
+      "ADDR_ROAD_NM": "서울 강남구 선릉로 424-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 74
+    },
+    {
+      "RK": 436,
+      "ITS_BRO_NM": "한솔크린",
+      "ADDR_ROAD_NM": "서울 강남구 개포로24길 21-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 74
+    },
+    {
+      "RK": 438,
+      "ITS_BRO_NM": "벡톤디킨슨코리아",
+      "ADDR_ROAD_NM": "서울 강남구 테헤란로 142-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 73
+    },
+    {
+      "RK": 438,
+      "ITS_BRO_NM": "왓어샷",
+      "ADDR_ROAD_NM": "서울 강남구 언주로 805-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 73
+    },
+    {
+      "RK": 440,
+      "ITS_BRO_NM": "라트어린이극장",
+      "ADDR_ROAD_NM": "서울 강남구 논현로 164-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 72
+    },
+    {
+      "RK": 440,
+      "ITS_BRO_NM": "스피드상품권",
+      "ADDR_ROAD_NM": "서울 강남구 압구정로 151-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 72
+    },
+    {
+      "RK": 442,
+      "ITS_BRO_NM": "갤러리다온",
+      "ADDR_ROAD_NM": "서울 강남구 봉은사로68길 23-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 71
+    },
+    {
+      "RK": 442,
+      "ITS_BRO_NM": "브이에이코퍼레이션",
+      "ADDR_ROAD_NM": "서울 강남구 언주로149길 17-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 71
+    },
+    {
+      "RK": 442,
+      "ITS_BRO_NM": "갤러리세인",
+      "ADDR_ROAD_NM": "서울 강남구 학동로 503-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 71
+    },
+    {
+      "RK": 445,
+      "ITS_BRO_NM": "에이블스퀘어복싱클럽",
+      "ADDR_ROAD_NM": "서울 강남구 논현로 403-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 70
+    },
+    {
+      "RK": 446,
+      "ITS_BRO_NM": "일원진달래공원",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 69
+    },
+    {
+      "RK": 447,
+      "ITS_BRO_NM": "다이소코엑스몰점",
+      "ADDR_ROAD_NM": "서울 강남구 영동대로 517-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 68
+    },
+    {
+      "RK": 447,
+      "ITS_BRO_NM": "존프랭클주짓수강남신사아카데미",
+      "ADDR_ROAD_NM": "서울 강남구 압구정로2길 53-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 68
+    },
+    {
+      "RK": 449,
+      "ITS_BRO_NM": "케이피유어스",
+      "ADDR_ROAD_NM": "서울 강남구 논현로151길 12-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 67
+    },
+    {
+      "RK": 449,
+      "ITS_BRO_NM": "카이스갤러리",
+      "ADDR_ROAD_NM": "서울 강남구 언주로174길 13-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 67
+    },
+    {
+      "RK": 451,
+      "ITS_BRO_NM": "믹스미디어",
+      "ADDR_ROAD_NM": "서울 강남구 논현로168길 32-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 65
+    },
+    {
+      "RK": 452,
+      "ITS_BRO_NM": "싸리고개공원",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 64
+    },
+    {
+      "RK": 452,
+      "ITS_BRO_NM": "피카프로젝트",
+      "ADDR_ROAD_NM": "서울 강남구 도산대로101길 22-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 64
+    },
+    {
+      "RK": 452,
+      "ITS_BRO_NM": "엠팟홀",
+      "ADDR_ROAD_NM": "서울 강남구 학동로 171-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 64
+    },
+    {
+      "RK": 455,
+      "ITS_BRO_NM": "그로스페이스",
+      "ADDR_ROAD_NM": "서울 강남구 학동로56길 37-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 63
+    },
+    {
+      "RK": 456,
+      "ITS_BRO_NM": "강남탁구클럽",
+      "ADDR_ROAD_NM": "서울 강남구 개포로15길 8-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 62
+    },
+    {
+      "RK": 457,
+      "ITS_BRO_NM": "갤러리LVS",
+      "ADDR_ROAD_NM": "서울 강남구 도산대로27길 33-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 61
+    },
+    {
+      "RK": 458,
+      "ITS_BRO_NM": "메르시바디연구소강남구청점",
+      "ADDR_ROAD_NM": "서울 강남구 선릉로133길 15-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 60
+    },
+    {
+      "RK": 459,
+      "ITS_BRO_NM": "다이소고객사랑마트점",
+      "ADDR_ROAD_NM": "서울 강남구 논현로10길 29-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 59
+    },
+    {
+      "RK": 459,
+      "ITS_BRO_NM": "운동생활",
+      "ADDR_ROAD_NM": "서울 강남구 논현로63길 25-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 59
+    },
+    {
+      "RK": 461,
+      "ITS_BRO_NM": "지오또수입가구GIOTTO",
+      "ADDR_ROAD_NM": "서울 강남구 학동로 159-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 58
+    },
+    {
+      "RK": 461,
+      "ITS_BRO_NM": "디에이치갤러리",
+      "ADDR_ROAD_NM": "서울 강남구 압구정로42길 5-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 58
+    },
+    {
+      "RK": 463,
+      "ITS_BRO_NM": "스트레칭조이",
+      "ADDR_ROAD_NM": "서울 강남구 영동대로75길 9-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 56
+    },
+    {
+      "RK": 464,
+      "ITS_BRO_NM": "강남성균검도관",
+      "ADDR_ROAD_NM": "서울 강남구 논현로 540-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 55
+    },
+    {
+      "RK": 464,
+      "ITS_BRO_NM": "서울국제만화애니메이션페스티벌",
+      "ADDR_ROAD_NM": "서울 강남구 영동대로 513-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "기타문화관광지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 55
+    },
+    {
+      "RK": 466,
+      "ITS_BRO_NM": "모헤닉하우스서울",
+      "ADDR_ROAD_NM": "서울 강남구 선릉로 831-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "기타문화관광지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 54
+    },
+    {
+      "RK": 466,
+      "ITS_BRO_NM": "쥴리아나갤러리",
+      "ADDR_ROAD_NM": "서울 강남구 선릉로162길 25-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 54
+    },
+    {
+      "RK": 468,
+      "ITS_BRO_NM": "셀린박갤러리",
+      "ADDR_ROAD_NM": "서울 강남구 압구정로32길 30-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 53
+    },
+    {
+      "RK": 468,
+      "ITS_BRO_NM": "착한액자",
+      "ADDR_ROAD_NM": "서울 강남구 선릉로132길 13-3",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 53
+    },
+    {
+      "RK": 468,
+      "ITS_BRO_NM": "큰골근린공원",
+      "ADDR_ROAD_NM": "서울 강남구 선릉로 0-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 53
+    },
+    {
+      "RK": 468,
+      "ITS_BRO_NM": "시퀀스무브먼트",
+      "ADDR_ROAD_NM": "서울 강남구 논현로150길 13-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 53
+    },
+    {
+      "RK": 468,
+      "ITS_BRO_NM": "갤러리치로",
+      "ADDR_ROAD_NM": "서울 강남구 강남대로 480-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 53
+    },
+    {
+      "RK": 468,
+      "ITS_BRO_NM": "신종훈복싱클럽",
+      "ADDR_ROAD_NM": "서울 강남구 학동로101길 19-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 53
+    },
+    {
+      "RK": 474,
+      "ITS_BRO_NM": "아트스페이스엣",
+      "ADDR_ROAD_NM": "서울 강남구 언주로153길 10-6",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 52
+    },
+    {
+      "RK": 474,
+      "ITS_BRO_NM": "탄천근린공원",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 52
+    },
+    {
+      "RK": 474,
+      "ITS_BRO_NM": "피앤씨갤러리서울",
+      "ADDR_ROAD_NM": "서울 강남구 압구정로75길 38-17",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 52
+    },
+    {
+      "RK": 474,
+      "ITS_BRO_NM": "글래드스톤갤러리",
+      "ADDR_ROAD_NM": "서울 강남구 삼성로 760-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 52
+    },
+    {
+      "RK": 478,
+      "ITS_BRO_NM": "디어힐더발레",
+      "ADDR_ROAD_NM": "서울 강남구 삼성로119길 8-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 51
+    },
+    {
+      "RK": 478,
+      "ITS_BRO_NM": "커스텀아이디강남본점",
+      "ADDR_ROAD_NM": "서울 강남구 테헤란로25길 40-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 51
+    },
+    {
+      "RK": 478,
+      "ITS_BRO_NM": "바라아트홀",
+      "ADDR_ROAD_NM": "서울 강남구 논현로161길 20-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 51
+    },
+    {
+      "RK": 481,
+      "ITS_BRO_NM": "궁마을공원",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 50
+    },
+    {
+      "RK": 481,
+      "ITS_BRO_NM": "세곡커뮤니티센터",
+      "ADDR_ROAD_NM": "서울 강남구 헌릉로590길 68-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "기타문화관광지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 50
+    },
+    {
+      "RK": 483,
+      "ITS_BRO_NM": "메종드파팡",
+      "ADDR_ROAD_NM": "서울 강남구 도산대로17길 27-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 49
+    },
+    {
+      "RK": 483,
+      "ITS_BRO_NM": "오유아트홀",
+      "ADDR_ROAD_NM": "서울 강남구 남부순환로378길 34-9",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "공연시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 49
+    },
+    {
+      "RK": 485,
+      "ITS_BRO_NM": "포레연습실",
+      "ADDR_ROAD_NM": "서울 강남구 남부순환로379길 14-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "기타문화관광지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 48
+    },
+    {
+      "RK": 485,
+      "ITS_BRO_NM": "홀릭전자담배선릉역점",
+      "ADDR_ROAD_NM": "서울 강남구 선릉로86길 31-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 48
+    },
+    {
+      "RK": 487,
+      "ITS_BRO_NM": "Wconcept",
+      "ADDR_ROAD_NM": "서울 강남구 테헤란로14길 16-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 46
+    },
+    {
+      "RK": 487,
+      "ITS_BRO_NM": "갤러리마노",
+      "ADDR_ROAD_NM": "서울 강남구 압구정로46길 71-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 46
+    },
+    {
+      "RK": 487,
+      "ITS_BRO_NM": "논현무궁화공원",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 46
+    },
+    {
+      "RK": 487,
+      "ITS_BRO_NM": "달터근린공원",
+      "ADDR_ROAD_NM": "서울 강남구 선릉로18길 15-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 46
+    },
+    {
+      "RK": 487,
+      "ITS_BRO_NM": "역삼클라이밍랩",
+      "ADDR_ROAD_NM": "서울 강남구 테헤란로30길 49-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 46
+    },
+    {
+      "RK": 487,
+      "ITS_BRO_NM": "청작화랑",
+      "ADDR_ROAD_NM": "서울 강남구 압구정로 134-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 46
+    },
+    {
+      "RK": 487,
+      "ITS_BRO_NM": "에스더아트센터",
+      "ADDR_ROAD_NM": "서울 강남구 봉은사로 418-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "전시시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 46
+    },
+    {
+      "RK": 494,
+      "ITS_BRO_NM": "더세일상품권",
+      "ADDR_ROAD_NM": "서울 강남구 테헤란로88길 10-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 45
+    },
+    {
+      "RK": 494,
+      "ITS_BRO_NM": "하다아트홀",
+      "ADDR_ROAD_NM": "서울 강남구 선릉로108길 7-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "기타문화관광지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 45
+    },
+    {
+      "RK": 496,
+      "ITS_BRO_NM": "동양사무용가구",
+      "ADDR_ROAD_NM": "서울 강남구 학동로 128-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 44
+    },
+    {
+      "RK": 496,
+      "ITS_BRO_NM": "삼화페인트",
+      "ADDR_ROAD_NM": "서울 강남구 논현로 20-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 44
+    },
+    {
+      "RK": 496,
+      "ITS_BRO_NM": "신사무궁화공원",
+      "ADDR_ROAD_NM": "서울 강남구",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "도시공원",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 44
+    },
+    {
+      "RK": 496,
+      "ITS_BRO_NM": "박흥권탁구클럽",
+      "ADDR_ROAD_NM": "서울 강남구 선릉로 664-0",
+      "KTO_CATE_MCLS_NM": "레저스포츠",
+      "KTO_CATE_SCLS_NM": "기타레저스포츠",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 44
+    },
+    {
+      "RK": 496,
+      "ITS_BRO_NM": "코엑스푸드위크",
+      "ADDR_ROAD_NM": "서울 강남구 영동대로 513-0",
+      "KTO_CATE_MCLS_NM": "문화관광",
+      "KTO_CATE_SCLS_NM": "기타문화관광지",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 44
+    },
+    {
+      "RK": 496,
+      "ITS_BRO_NM": "핌아시아",
+      "ADDR_ROAD_NM": "서울 강남구 테헤란로114길 16-0",
+      "KTO_CATE_MCLS_NM": "쇼핑",
+      "KTO_CATE_SCLS_NM": "기타쇼핑시설",
+      "AREA_NM": "서울특별시 강남구",
+      "SRCH_CNT": 44
+    }
+  ]
+}

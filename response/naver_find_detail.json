@@ -1,0 +1,523 @@
+{
+  "result": {
+    "type": "place",
+    "metaInfo": {
+      "pageId": "becfb689-1c8c-4baa-a8f3-ae318e40f4c6",
+      "sessionId": null,
+      "rcode": null,
+      "searchedQuery": "코엑스",
+      "correction": null,
+      "displayCorrectAnswer": true
+    },
+    "address": null,
+    "place": {
+      "page": 1,
+      "totalCount": 34821,
+      "boundary": [
+        "127.0594274",
+        "37.5116620",
+        "127.0594274",
+        "37.5116620"
+      ],
+      "feedback": [
+        "<strong>'코엑스'</strong>",
+        " 근처 장소"
+      ],
+      "options": {
+        "sort": "0",
+        "toggleLocation": "0",
+        "rank": "1"
+      },
+      "filters": {},
+      "reSearch": null,
+      "isSiteSortAvailable": false,
+      "specializedSearch": null,
+      "hasPollingPlace": false,
+      "isAdultKeyword": false,
+      "containAdultContents": false,
+      "address": null,
+      "brandPromotion": null,
+      "list": [
+        {
+          "index": "0",
+          "rank": "1",
+          "id": "11576171",
+          "name": "코엑스",
+          "tel": "02-6000-0114",
+          "isCallLink": false,
+          "virtualTel": "",
+          "ppc": "1",
+          "category": [
+            "문화,예술",
+            "컨벤션센터"
+          ],
+          "categoryPath": [
+            [
+              "221845",
+              "221846",
+              "221853"
+            ]
+          ],
+          "address": "서울특별시 강남구 삼성동 159",
+          "roadAddress": "서울특별시 강남구 영동대로 513",
+          "abbrAddress": "삼성동 159",
+          "shortAddress": [
+            "서울 강남구",
+            "영동대로 513"
+          ],
+          "display": "<b>코엑스</b>",
+          "telDisplay": "02-6000-0114",
+          "context": [],
+          "reviewCount": 25665,
+          "placeReviewCount": 4095,
+          "ktCallMd": "205dc3bbd9fc483ac9b11d6927990308",
+          "coupon": "0",
+          "thumUrl": "https://ldb-phinf.pstatic.net/20140407_294/1396853911660oX1mT_JPEG/%BC%AD%BF%EF_%C4%DA%BF%A2%BD%BA_1.jpg?type=m500_500",
+          "thumUrls": [],
+          "type": "s",
+          "isSite": "1",
+          "posExact": "1",
+          "x": "127.0594274",
+          "y": "37.5116620",
+          "itemLevel": "12",
+          "isAdultBusiness": false,
+          "streetPanorama": null,
+          "skyPanorama": null,
+          "insidePanorama": null,
+          "interiorPanorama": null,
+          "indoorPanorama": null,
+          "theme": null,
+          "poiInfo": {
+            "relation": {
+              "poiShapeType": "1",
+              "shapeKey": {
+                "typeName": "RELA",
+                "wsid": "1.0",
+                "shapeID": "11576171"
+              },
+              "boundary": {
+                "minX": "117.9926027",
+                "minY": "19.6944771",
+                "maxX": "117.9926027",
+                "maxY": "19.6944771"
+              },
+              "detail": [
+                {
+                  "type": "5",
+                  "sid": "37770550",
+                  "fullName": "코엑스남문1",
+                  "name": "남문1",
+                  "category": "입구(사람)",
+                  "xPos": "127.0597315",
+                  "yPos": "37.5104168"
+                },
+                {
+                  "type": "5",
+                  "sid": "820415858",
+                  "fullName": "코엑스남문2",
+                  "name": "남문2",
+                  "category": "입구(사람)",
+                  "xPos": "127.0604239",
+                  "yPos": "37.5106640"
+                },
+                {
+                  "type": "5",
+                  "sid": "37770551",
+                  "fullName": "코엑스동문",
+                  "name": "동문",
+                  "category": "입구(사람)",
+                  "xPos": "127.0612502",
+                  "yPos": "37.5115517"
+                },
+                {
+                  "type": "4",
+                  "sid": "18816323",
+                  "fullName": "코엑스동문GATE",
+                  "name": "동문GATE",
+                  "category": "입출구(차량)",
+                  "xPos": "127.0611329",
+                  "yPos": "37.5108965"
+                },
+                {
+                  "type": "5",
+                  "sid": "204387860",
+                  "fullName": "코엑스북문",
+                  "name": "북문",
+                  "category": "입구(사람)",
+                  "xPos": "127.0584084",
+                  "yPos": "37.5133820"
+                },
+                {
+                  "type": "2",
+                  "sid": "37770553",
+                  "fullName": "코엑스북문GATE",
+                  "name": "북문GATE",
+                  "category": "입구(차량)",
+                  "xPos": "127.0580428",
+                  "yPos": "37.5136742"
+                },
+                {
+                  "type": "5",
+                  "sid": "37770549",
+                  "fullName": "코엑스서문",
+                  "name": "서문",
+                  "category": "입구(사람)",
+                  "xPos": "127.0581974",
+                  "yPos": "37.5104968"
+                },
+                {
+                  "type": "4",
+                  "sid": "890525753",
+                  "fullName": "코엑스서문GATE",
+                  "name": "서문GATE",
+                  "category": "입출구(차량)",
+                  "xPos": "127.0574705",
+                  "yPos": "37.5118198"
+                },
+                {
+                  "type": "1",
+                  "sid": "37770552",
+                  "fullName": "아셈타워GATE",
+                  "name": "아셈타워GATE",
+                  "category": "입구(사람+차량)",
+                  "xPos": "127.0606252",
+                  "yPos": "37.5127082"
+                },
+                {
+                  "type": "5",
+                  "sid": "19473957",
+                  "fullName": "코엑스입구",
+                  "name": "입구",
+                  "category": "입구(사람)",
+                  "xPos": "127.0598500",
+                  "yPos": "37.5139083"
+                },
+                {
+                  "type": "5",
+                  "sid": "21894018",
+                  "fullName": "코엑스입구",
+                  "name": "입구",
+                  "category": "입구(사람)",
+                  "xPos": "127.0608147",
+                  "yPos": "37.5123850"
+                },
+                {
+                  "type": "5",
+                  "sid": "19473959",
+                  "fullName": "코엑스입구",
+                  "name": "입구",
+                  "category": "입구(사람)",
+                  "xPos": "127.0591875",
+                  "yPos": "37.5138947"
+                },
+                {
+                  "type": "5",
+                  "sid": "19473955",
+                  "fullName": "코엑스입구",
+                  "name": "입구",
+                  "category": "입구(사람)",
+                  "xPos": "127.0601822",
+                  "yPos": "37.5135381"
+                },
+                {
+                  "type": "3",
+                  "sid": "18818215",
+                  "fullName": "코엑스출구",
+                  "name": "출구",
+                  "category": "출구(차량)",
+                  "xPos": "127.0584346",
+                  "yPos": "37.5137537"
+                }
+              ]
+            },
+            "hasRelation": true,
+            "road": {
+              "poiShapeType": "1",
+              "shapeKey": null,
+              "boundary": null,
+              "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+          },
+          "homePage": "http://www.coex.co.kr/",
+          "description": "",
+          "entranceCoords": {
+            "car": [
+              {
+                "rep": true,
+                "x": 127.0606252,
+                "y": 37.5127082
+              },
+              {
+                "rep": false,
+                "x": 127.0580428,
+                "y": 37.5136742
+              },
+              {
+                "rep": false,
+                "x": 127.0574705,
+                "y": 37.5118198
+              },
+              {
+                "rep": false,
+                "x": 127.0611329,
+                "y": 37.5108965
+              }
+            ],
+            "walk": [
+              {
+                "rep": true,
+                "x": 127.0612502,
+                "y": 37.5115517
+              },
+              {
+                "rep": false,
+                "x": 127.05985,
+                "y": 37.5139083
+              },
+              {
+                "rep": false,
+                "x": 127.0597315,
+                "y": 37.5104168
+              },
+              {
+                "rep": false,
+                "x": 127.0608147,
+                "y": 37.512385
+              },
+              {
+                "rep": false,
+                "x": 127.0581974,
+                "y": 37.5104968
+              },
+              {
+                "rep": false,
+                "x": 127.0604239,
+                "y": 37.510664
+              },
+              {
+                "rep": false,
+                "x": 127.0584084,
+                "y": 37.513382
+              },
+              {
+                "rep": false,
+                "x": 127.0591875,
+                "y": 37.5138947
+              },
+              {
+                "rep": false,
+                "x": 127.0601822,
+                "y": 37.5135381
+              }
+            ]
+          },
+          "isPollingPlace": false,
+          "bizhourInfo": "매일 10:00~18:00 비고(행사 종료시간 상이)",
+          "menuInfo": null,
+          "petrolInfo": null,
+          "couponUrl": null,
+          "couponUrlMobile": null,
+          "hasCardBenefit": false,
+          "menuExist": "1",
+          "hasNaverBooking": false,
+          "naverBookingUrl": "",
+          "naverEasyOrderUrl": null,
+          "hasNaverSmartOrder": false,
+          "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+          },
+          "reservation": {
+            "benefit": ""
+          },
+          "hasBroadcastInfo": true,
+          "broadcastInfo": {
+            "name": "알쓸신잡2",
+            "menu": null
+          },
+          "shopWindowInfo": null,
+          "hasNPay": false,
+          "carWash": "",
+          "parkingPrice": null,
+          "card": null,
+          "distance": "34367.81",
+          "marker": "nres://marker/00079-00101",
+          "markerSelected": "nres://marker/00079-00265",
+          "markerId": "m_440842",
+          "microReview": [],
+          "michelinGuide": null,
+          "indoor": null,
+          "markerLabel": null,
+          "subway": null,
+          "evChargerInfo": {
+            "summary": {
+              "fastEvCharger": {
+                "type": "급속",
+                "typeCode": "1",
+                "status": "",
+                "statusCode": "-1",
+                "names": [],
+                "nameCodes": []
+              },
+              "standardEvCharger": {
+                "type": "완속",
+                "typeCode": "2",
+                "status": "",
+                "statusCode": "-1",
+                "names": [],
+                "nameCodes": []
+              }
+            },
+            "evChargerList": []
+          }
+        }
+      ]
+    },
+    "bus": {
+      "subType": "bus-route",
+      "feedback": [
+        "<strong>'코엑스'</strong> 주변 버스 검색결과"
+      ],
+      "options": {
+        "rank": "0"
+      },
+      "links": {
+        "linkQuery": null,
+        "others": null,
+        "queryForDupRegion": null
+      },
+      "busRoute": {
+        "page": 2,
+        "totalCount": 68,
+        "boundary": null,
+        "filters": {
+          "busRouteTypeCodeList": [
+            {
+              "typeName": "일반",
+              "typeCode": "1"
+            },
+            {
+              "typeName": "마을",
+              "typeCode": "3"
+            },
+            {
+              "typeName": "직행좌석",
+              "typeCode": "4"
+            },
+            {
+              "typeName": "공항",
+              "typeCode": "5"
+            },
+            {
+              "typeName": "간선",
+              "typeCode": "11"
+            },
+            {
+              "typeName": "지선",
+              "typeCode": "12"
+            },
+            {
+              "typeName": "광역",
+              "typeCode": "14"
+            },
+            {
+              "typeName": "관광",
+              "typeCode": "16"
+            }
+          ]
+        },
+        "list": [
+          {
+            "index": 0,
+            "rank": 1,
+            "id": "1504",
+            "name": "강남01",
+            "aliasName": "",
+            "displayName": "강남01",
+            "cityCode": "1000",
+            "cityName": "서울",
+            "type": "3",
+            "typeName": "마을",
+            "typeIconName": "마을",
+            "startPoint": "일원동",
+            "endPoint": "삼성웨딩홀",
+            "turningPointIdx": "19",
+            "firstTime": "06:00",
+            "lastTime": "23:40",
+            "intervalTime": "8",
+            "intervalCount": "",
+            "liveUpdate": true,
+            "useInterval": true,
+            "mainStation": "",
+            "event": null
+          }
+        ]
+      },
+      "busStation": {
+        "page": 2,
+        "totalCount": 106,
+        "filters": {},
+        "boundary": null,
+        "list": [
+          {
+            "index": 0,
+            "rank": 1,
+            "id": "98058",
+            "name": "코엑스.에스엠타운",
+            "stationClass": "1",
+            "x": "127.0618540",
+            "y": "37.5104080",
+            "address": "서울특별시 강남구 삼성동",
+            "streetPanorama": {
+              "id": "7jmaC65XXkOEGYXb5ILtSg",
+              "pan": "-64.12",
+              "tilt": "0",
+              "lng": "127.0619242",
+              "lat": "37.5103739",
+              "fov": "120"
+            },
+            "itemLevel": "12",
+            "arsId": "23905",
+            "doCode": "1000",
+            "doName": "서울특별시",
+            "liveUpdate": true,
+            "routeList": [
+              {
+                "id": "2621",
+                "name": "TOUR03",
+                "aliasName": "",
+                "displayName": "TOUR03",
+                "type": "16",
+                "typeName": "관광",
+                "typeIconName": "관광",
+                "nextStation": {
+                  "id": "98059",
+                  "name": "롯데월드",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "98059",
+                        "localId": "24905",
+                        "localDisplayId": "24905",
+                        "localCityCode": "1000"
+                      }
+                    ]
+                  }
+                }
+              }
+            ],
+            "distance": "255.67",
+            "direction": "롯데월드"
+          }
+        ]
+      }
+    }
+  }
+}
