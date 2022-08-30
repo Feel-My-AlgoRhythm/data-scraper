@@ -24,8 +24,8 @@ def find_pois(sgg_cd):
             'SGG_CD': sgg_cd,
             'txtSGG_CD': '1',
             'txtSIDO_ARR': '1',
-            'BASE_YM1': today - timedelta(days=365),
-            'BASE_YM2': today,
+            'BASE_YM1': (today - timedelta(days=365)).strftime("%Y%m"),
+            'BASE_YM2': today.strftime("%Y%m"),
             'TMAP_CATE_MCLS_CD': '전체',
             'srchAreaDate': '1',
             'qid': 'BDT_03_04_003'
