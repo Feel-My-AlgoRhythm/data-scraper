@@ -1,4 +1,5 @@
 import requests
+from datetime import datetime, timedelta
 
 FIND_POIS_URL = "https://datalab.visitkorea.or.kr/visualize/getTempleteData.do"
 FIND_REGIONS_URL = "https://datalab.visitkorea.or.kr/portal/getSggCdList.do"
@@ -15,14 +16,16 @@ def find_regions():
 
 
 def find_pois(sgg_cd):
+    today = datetime.today()
+
     return requests.request(
         "POST", FIND_POIS_URL,
         headers={}, data={
             'SGG_CD': sgg_cd,
             'txtSGG_CD': '1',
             'txtSIDO_ARR': '1',
-            'BASE_YM1': '202108',
-            'BASE_YM2': '202207',
+            'BASE_YM1': today - timedelta(days=365),
+            'BASE_YM2': today,
             'TMAP_CATE_MCLS_CD': '전체',
             'srchAreaDate': '1',
             'qid': 'BDT_03_04_003'

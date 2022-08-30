@@ -12,7 +12,7 @@ def find_detail(place_name):
             "caller": "pcweb",
             "query": place_name,
             "type": "all",
-            "searchCoord": "127.07254197903751;37.54989869999944",
+            # "searchCoord": "127.07254197903751;37.54989869999944",
             "page": "1",
             "displayCount": "1",
             "isPlaceRecommendationReplace": "true",
