@@ -14,4 +14,4 @@ class Database:
             db=config['DATABASE']['DB'],
             charset=config['DATABASE']['CHARSET'],
         )
-        self.cursor = self.db.cursor(pymysql.cursors.DictCursor)
+        self.cursor = self.session.cursor(pymysql.cursors.DictCursor)
