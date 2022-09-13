@@ -110,6 +110,10 @@ class POIReviewParser:
             "query": "query getVisitorReviewStats($id: String, $itemId: String, $businessType: String = \"place\") {\n  visitorReviewStats(input: {businessId: $id, itemId: $itemId, businessType: $businessType}) {\n    id\n    name\n    apolloCacheId\n    review {\n      avgRating\n      totalCount\n      scores {\n        count\n        score\n        __typename\n      }\n      starDistribution {\n        count\n        score\n        __typename\n      }\n      imageReviewCount\n      authorCount\n      maxSingleReviewScoreCount\n      maxScoreWithMaxCount\n      __typename\n    }\n    analysis {\n      themes {\n        code\n        label\n        count\n        __typename\n      }\n      menus {\n        label\n        count\n        __typename\n      }\n      votedKeyword {\n        totalCount\n        reviewCount\n        userCount\n        details {\n          category\n          code\n          iconUrl\n          iconCode\n          displayName\n          count\n          previousRank\n          __typename\n        }\n        __typename\n      }\n      __typename\n    }\n    visitorReviewsTotal\n    ratingReviewsTotal\n    __typename\n  }\n}\n",
         }]
 
+        void_stats = {
+            "count": 0,
+        }
+
         try:
             response = requests.post(
                 url=self.api_prefix,
@@ -118,18 +122,16 @@ class POIReviewParser:
             )
             response_data = response.json()
         except:
-            raise Exception(response, f"Error occurred while scraping review stats of POI {self.poi_id}.")
+            print(response, f"Error occurred while scraping review stats of POI {self.poi_id}.")
+            return void_stats
 
         # HTTP 응답 예외 처리
-        response.raise_for_status()
         if len(response_data) == 0 or 'errors' in response_data[0]:
             raise Exception(response_data)
         
         # 데이터 예외 처리
         if response_data[0]['data']['visitorReviewStats'] is None:
-            return {
-                "count": 0,
-            }
+            return void_stats
 
         return {
             "count": response_data[0]['data']['visitorReviewStats']['review']['totalCount'],
@@ -178,7 +180,8 @@ class POIReviewParser:
             )
             response_data = response.json()
         except:
-            raise Exception(response, f"Error occurred while scraping reviews of POI {self.poi_id}.")
+            print(response, f"Error occurred while scraping reviews of POI {self.poi_id}.")
+            return []
 
         # HTTP 응답 예외 처리
         response.raise_for_status()
