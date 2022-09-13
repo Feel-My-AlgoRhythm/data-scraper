@@ -2,7 +2,7 @@ import time
 from tqdm import tqdm
 from typing import List
 from util.database import Database
-from poi_review import POIReviewParser
+from api.poi_review import POIReviewParser
 
 class POIParser:
     def __init__(self):
