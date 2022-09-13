@@ -20,7 +20,6 @@ if __name__ == "__main__":
 
     args = arg_parser.parse_args()
     if args.task == "review":
-        from api.review import ReviewParser
-        parser = ReviewParser()
-        result = parser.run()
-        print(f"{result} review data stored.")
+        from api.poi import POIParser
+        parser = POIParser()
+        result = parser.load_reviews()
