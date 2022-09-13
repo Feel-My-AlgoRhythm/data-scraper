@@ -1,5 +1,4 @@
 import argparse
-from util.database import Database
 
 if __name__ == "__main__":
     arg_parser = argparse.ArgumentParser()
@@ -20,6 +19,6 @@ if __name__ == "__main__":
 
     args = arg_parser.parse_args()
     if args.task == "review":
-        from api.poi import POIParser
+        from src.poi import POIParser
         parser = POIParser()
         result = parser.load_reviews()
